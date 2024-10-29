@@ -29,7 +29,7 @@ class Pos(Jsonable):
 @dataclass(repr=False)
 class Etymology(Jsonable):
     etymologyHTML:str
-    definitions:list[Definition]
+    definitions:list[Pos]
 
 @dataclass(repr=False)
 class Word(Jsonable):
