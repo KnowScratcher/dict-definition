@@ -21,7 +21,7 @@ class TestFinder(TestCase):
     # def __init__(self, methodName: str = "runTest") -> None:
     #     super().__init__(methodName)
 
-    def test_sigle_etymology(self):
+    def test_single_etymology(self):
         for word in TEST_WORD_1E:
             with self.subTest(word = word):
                 fd = Finder(word)

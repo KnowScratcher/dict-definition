@@ -8,9 +8,9 @@ class Jsonable:
 
 @dataclass(repr=False)
 class Quote(Jsonable):
-    textHTML:str
-    author:str | None = None
-    time:str | None = None
+    citation:str | None = None
+    textHTML:str | None = None
+    # time:str | None = None
 
 @dataclass(repr=False)
 class Definition(Jsonable):
@@ -22,17 +22,17 @@ class Definition(Jsonable):
 
 @dataclass(repr=False)
 class Pos(Jsonable):
-    pos:str | Literal["noun","verb","pronoun","adjective","adverb","preposition","conjunction","interjection","determiner","article"]
+    pos:str | Literal["Noun","Verb","Pronoun","Adjective","Adverb","Preposition","Conjunction","Interjection","Determiner","Article"]
     definitions:list[Definition]
 
 
 @dataclass(repr=False)
 class Etymology(Jsonable):
     etymologyHTML:str
-    definitions:list[Pos]
+    pos:list[Pos]
 
 @dataclass(repr=False)
 class Word(Jsonable):
     text:str
     etymologies:list[Etymology]
-    pronunciation:list[tuple[str,str]] # list of tuple = (key,ipa), key = reigion or pos
+    pronunciation:list[tuple[str,str]] # list of tuple = (key,ipa), key = region or pos
