@@ -1,5 +1,6 @@
-from dataclasses import dataclass
-from typing import Literal, Any
+from dataclasses import dataclass,field
+from typing import Literal, Any,Optional
+
 
 
 class Jsonable:
@@ -9,16 +10,17 @@ class Jsonable:
 @dataclass(repr=False)
 class Quote(Jsonable):
     citation:str | None = None
-    textHTML:str | None = None
+    text:str | None = None
     # time:str | None = None
+
 
 @dataclass(repr=False)
 class Definition(Jsonable):
     definition:str
     quote:list[Quote]
-    derivedTerm:list[str]
-    synonyms:list[str]
-    antonyms:list[str]
+    relative:dict[str,list[str]]
+    # children:list['Definition'] = field(default_factory=list)
+    # parent:Optional['Definition'] = None
 
 @dataclass(repr=False)
 class Pos(Jsonable):

@@ -2,6 +2,8 @@ import requests
 import bs4
 import re
 from definition import *
+import json
+import dataclasses
 
 class Void:
     def __getattribute__(self, name):
@@ -32,6 +34,7 @@ class Finder:
             self.word_class.etymologies = [Etymology(re.sub(unused_tag,"",str(build)),self.find_pos_single())]
             return
         except: # multiple
+            print("multiple")
             try:
                 build = []
                 
@@ -76,53 +79,79 @@ class Finder:
 
 
     def find_pos_multiple(self,anchor) -> list[Pos]: # h4
-        pass
-
-    def find_definition_single(self,pos,p=None) -> list[Definition]:
-        if p is None:
-            ol = pos.parent.find_next("ol")
-            pointer = ol.find("li", recursive=False)
-            layer = 1
-        else:
-            pointer = p
+        i = anchor
         build = []
-        base_pointers = [] # (pointer,pointer.find(".usage-label-sense").text or "")
-        while True:
-            if pointer is None or pointer.name != "li":
-                layer -= 1
-                if not layer:
-                    break
-                pointer = base_pointers[-1][0].find_next_sibling()
-                base_pointers.pop()
-                continue
-            if len(pointer.findChildren("ol", recursive=False)) > 0:
-                layer += 1
-                base_pointers.append((pointer,(pointer.find("span",_class="usage-label-sense") or Void()).text or None))
-                pointer = pointer.findChildren("ol", recursive=False)[0].find("li")
-                continue
-
-            if (pointer.has_attr("class") and "empty" in pointer["class"][0]):
-                pointer = pointer.find_next_sibling()
-                continue
-            def_string_build = []
-            quote_string_build = []
-            for i in pointer.contents:
-                match i:
-                    case str(i):
-                        def_string_build.append(str(i))
-                    case tag if str(tag).startswith("<dl>"): # syn, ant...
-                        pass
-                    case tag if str(tag).startswith("<ul>"): # quotation
-                        pass
-                    case i:
-                        def_string_build.append(i.get_text())
-                    
-            build.append(Definition("".join(def_string_build),[],[],[],[]))
-            pointer = pointer.find_next_sibling()
-        print(len(build))
+        section = []
+        k = i.parent.find_next_sibling()
+        while k!=None and (not k.has_attr("class") or ("mw-heading3" not in k["class"])):
+            section.append(str(k))
+            k = k.find_next_sibling()
+            
+        section = "".join(section)
+        s = bs4.BeautifulSoup(section,"html5lib")
+        h4s = s.find_all("h4")
+        for j in filter(lambda x: any(p in x["id"] for p in pos),h4s):
+            build.append(Pos(j["id"].split("_")[0],definitions=self.find_definition_single(j)))
         return build
 
-finder = Finder("cathead")
-print(finder.word_class)
+    def find_definition_single(self,pos=None,skip=False,prefix="") -> list[Definition]:
+        full = []
+        build = []
+        build_quote = []
+        build_relative = {}
+        if not skip:
+            pointer = pos.parent.find_next("ol")
+        else:
+            pointer = pos
+        for i in pointer.contents:
+            if str(i) == '<li class="mw-empty-elt"></li>':
+                continue
+            elif str(i).startswith("<li") or str(i).startswith("<ol"):
+                full.extend(self.find_definition_single(i,True))
+            elif str(i).startswith("<ul"):
+                build_quote.extend(self.find_quote(i))
+            elif str(i).startswith("<dl"):
+                build_relative = self.find_sact(i)
+            elif skip: # if it's inside
+                build.append(i.get_text())
+        if len(build) > 0 and not all(["\n" == i for i in build]):
+            full.append(Definition(definition="".join(build),quote=build_quote,relative=build_relative))
+        # print(len(full))
+        return full
+    
+    def find_quote(self,pointer) -> list[Quote]:
+        build_cite = []
+        build_text = []
+        full = []
+        for i in pointer.contents:
+            if str(i) == '<li class="mw-empty-elt"></li>':
+                continue
+            elif str(i).startswith("<li") or str(i).startswith("<div"):
+                full.extend(self.find_quote(i))
+            elif str(i).startswith("<dl"):
+                build_text.append(i.get_text())
+            else: # if it's inside
+                build_cite.append(i.get_text())
+        if len(build_cite) > 0 and len(build_text) > 0:
+            full.append(Quote(citation="".join(build_cite),text="".join(build_text)))
+        return full
+    
+    def find_sact(self,pointer) -> dict[str,list[str]]: # synonym, antonym, derived term
+        build = {}
+        for i in pointer.contents:
+            if str(i).startswith("<dd"):
+                text = str(i.get_text()).split(":")
+                if len(text) == 2:
+                    build[text[0]] = [s.strip() for s in re.split('; |, ', text[1])]
+        return build
+
+# finder = Finder("cathead")
+finder = Finder("absentminded")
+class EnhancedJSONEncoder(json.JSONEncoder):
+        def default(self, o):
+            if dataclasses.is_dataclass(o):
+                return dataclasses.asdict(o)
+            return super().default(o)
+print(json.dumps(finder.word_class,cls=EnhancedJSONEncoder))
 
 
