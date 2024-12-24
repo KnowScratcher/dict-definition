@@ -1,0 +1,93 @@
+{
+	"text": "accessory",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Medieval Latin <i class=\"Latn mention\" lang=\"la\">access\u014drius</i>, from Latin <i class=\"Latn mention\" lang=\"la\">accessor</i> (\u201chelper, subordinate\u201d), from <i class=\"Latn mention\" lang=\"la\">accessus</i>. Compare <i class=\"Latn mention\" lang=\"en\">access</i>, from same root.\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "Having a secondary, supplementary or subordinate function by accompanying as a subordinate; aiding in a secondary way; being additional; contributing or being contributory. [from 1550s][1]\n\n",
+							"quote": [
+								{
+									"citation": "1641 May, John Milton, Of Reformation Touching Church-Discipline in England: And the Cavvses that hitherto have Hindred it; republished as Will Taliaferro Hale, editor, Of Reformation Touching Church-Discipline in England (Yale Studies in English; LIV), New Haven, Conn.: Yale University Press, 1916, \u2192OCLC, 2nd book, page 48:",
+									"text": "Amongst many secondary, and accessory causes that support Monarchy, these are not of least reckning,  [\u2026]"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(law) Assisting a crime without actually participating in committing the crime itself; being connected as an incident or subordinate to a principal.\n",
+							"quote": [],
+							"relative": {
+								"Hypernym": [
+									"accomplice"
+								],
+								"Coordinate term": [
+									"principal"
+								]
+							}
+						},
+						{
+							"definition": "Present in a minor amount, and not essential.\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		},
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">accessorie</i>, from Medieval Latin <i class=\"Latn mention\" lang=\"la\">access\u014drius</i>, from Latin <i class=\"Latn mention\" lang=\"la\">accessor</i> (\u201chelper, subordinate\u201d), from <i class=\"Latn mention\" lang=\"la\">accessus</i>. Compare <i class=\"Latn mention\" lang=\"en\">access</i>, from same root.\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "Something that belongs to part of another main thing; something additional and subordinate, an attachment.\n\n",
+							"quote": [
+								{
+									"citation": "1851, Thomas Carlyle, The Life of John Sterling, London: Chapman and Hall,\u00a0[\u2026], \u2192OCLC:",
+									"text": "the aspect and accessories of a den of banditti"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(fashion) An article that completes one's basic outfit, such as a scarf or gloves. [from 1896][2]\n",
+							"quote": [
+								{
+									"citation": "2018 June 5, Jonah Engel Bromwich, Vanessa Friedman, Matthew Schneier, \u201cKate Spade, whose handbags carried women into adulthood, is dead at 55\u201d, in The New York Times\u200e[1], New York, N.Y.: The New York Times Company, \u2192ISSN, \u2192OCLC, archived from the original on 6 June 2018:",
+									"text": "One of the first of a wave of American women contemporary designers who emerged in the 1990s, she [Kate Spade] built a brand on the appeal of clothes and accessories that made shoppers smile."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(law) A person who is not present at a crime, but contributes to it as an assistant or instigator. [from 1414][4]\n\n",
+							"quote": [
+								{
+									"citation": "2005, Jennifer Worth, Shadows of the Workhouse, Weidenfeld & Nicholson (2009), page 150:",
+									"text": "\u201cYou can be an accessory before the fact, or an accessory after the fact. It doesn\u02bct matter if it\u02bcs before or after; either way you\u02bcd be in for it.\u201d"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(art) Something in a work of art without being indispensably necessary, for example solely ornamental parts.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Received Pronunciation, General American",
+			"/\u0259k\u02c8s\u025bs(\u0259)\u0279i/"
+		]
+	]
+}

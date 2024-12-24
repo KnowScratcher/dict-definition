@@ -1,0 +1,379 @@
+{
+	"text": "abstract",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">abstract</i>, borrowed from Latin <i class=\"Latn mention\" lang=\"la\">abstractus</i>, perfect passive participle of <i class=\"Latn mention\" lang=\"la\">abstrah\u014d</i> (\u201cdraw away\u201d), formed from <i class=\"Latn mention\" lang=\"la\">abs-</i> (\u201caway\u201d) + <i class=\"Latn mention\" lang=\"la\">trah\u014d</i> (\u201cto pull, draw\u201d). The verbal sense is first attested in 1542.\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "An abridgement or summary of a longer publication. [First attested around 1350 to 1470.][1]\n",
+							"quote": [
+								{
+									"citation": "1741, I[saac] Watts, The Improvement of the Mind: Or, A Supplement to the Art of Logick:\u00a0[\u2026], London:  [\u2026]  James Brackstone,\u00a0[\u2026], \u2192OCLC:",
+									"text": "An analysis and abstract of every treatise he had read."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Concentrated essence of a product.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(medicine) A powdered solid extract of a medicinal substance mixed with lactose.[2]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Something that concentrates in itself the qualities of a larger item, or multiple items. [First attested in the mid 16th century.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1628, John Ford, The Lover's Melancholy:",
+									"text": "Man, the abstract Of all perfection, which the workmanship Of Heaven hath modeled."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "An abstraction; an abstract term; that which is abstract. [First attested in the mid 16th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1843, John Stuart Mill, chapter II, in A System of Logic, Ratiocinative and Inductive, being a Connected View of the Principles of Evidence, and the Methods of Scientific Investigation.\u00a0[\u2026], volume I, London: John W[illiam] Parker,\u00a0[\u2026], \u2192OCLC, page 54:",
+									"text": "Thus the concrete like has its abstract likeness; the concretes, father and son, have the abstracts, paternity and filiation."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "The theoretical way of looking at things; something that exists only in idealized form. [First attested in the early 17th century.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(art) An abstract work of art. [First attested in the early 20th century.]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(real estate) A summary title of the key points detailing a tract of land, for ownership; abstract of title.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(obsolete) Derived; extracted. [Attested from around 1350 to 1470 until the late 15th century.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(now rare) Drawn away; removed from; apart from; separate. [First attested around 1350 to 1470.][1]\n",
+							"quote": [
+								{
+									"citation": "17th century, John Norris (philosopher), The Oxford Dictionary:\n",
+									"text": "The more abstract we are from the body ... the more fit we shall be to behold divine light."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Insufficiently factual.[3]\n",
+							"quote": [],
+							"relative": {
+								"Synonym": [
+									"formal"
+								]
+							}
+						},
+						{
+							"definition": "Apart from practice or reality; vague; theoretical; impersonal; not applied.\n\n",
+							"quote": [
+								{
+									"citation": "1999, Nicholas Walker, \u201cThe Reorientation of Critical Theory: Habermas\u201d, in Simon Glemdinning, editor, The Edinburgh Encyclopedia of Continental Philosophy\u200e[1], Routledge, \u2192ISBN, page 489:",
+									"text": "During the late 1950s and throughout the 1960s, this commitment brought him into frequent critical confrontation with entrenched forms of conservative thinking (in academic areas from history and social science to the more abstract domains of ethical and political philosophy), [\u2026]"
+								}
+							],
+							"relative": {
+								"Synonyms": [
+									"conceptual",
+									"theoretical"
+								],
+								"Antonyms": [
+									"applied",
+									"practical"
+								]
+							}
+						},
+						{
+							"definition": "(grammar) As a noun, denoting a concept or intangible as opposed to an object, place, or person.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Not concrete: conceptual, ideal. [First attested around 1350 to 1470.][1]\n\n",
+							"quote": [],
+							"relative": {
+								"Synonyms": [
+									"conceptual",
+									"ideal",
+									"imaginary",
+									"incorporeal",
+									"intangible",
+									"nonempirical",
+									"theoretical"
+								],
+								"Antonyms": [
+									"actual",
+									"concrete",
+									"corporeal",
+									"empirical"
+								]
+							}
+						},
+						{
+							"definition": "Difficult to understand; abstruse; hard to conceptualize. [First attested around 1350 to 1470.][1]\n\n\n",
+							"quote": [
+								{
+									"citation": "1929, Ernest Hemingway, A Farewell to Arms:",
+									"text": "Abstract words such as glory, honour, courage, or hallow were obscene."
+								}
+							],
+							"relative": {
+								"Synonym": [
+									"abstruse"
+								]
+							}
+						},
+						{
+							"definition": "Separately expressing a property or attribute of an object that is considered to be inherent to that object: attributive, ascriptive. [First attested around 1350 to 1470.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1843, John Stuart Mill, A System of Logic, Ratiocinative and Inductive, volume 1, page 34:",
+									"text": "A concrete name is a name which stands for a thing; an abstract name which stands for an attribute of a thing..."
+								}
+							],
+							"relative": {
+								"Synonyms": [
+									"attributive",
+									"ascriptive"
+								]
+							}
+						},
+						{
+							"definition": "Pertaining comprehensively to, or representing, a class or group of objects, as opposed to any specific object; considered apart from any application to a particular object: general, generic, nonspecific; representational. [First attested by Locke in 1689.]\n\n",
+							"quote": [
+								{
+									"citation": "1843, John Stuart Mill, A System of Logic, Ratiocinative and Inductive, volume 1, page 34:",
+									"text": "A concrete name is a name which stands for a thing; an abstract name which stands for an attribute of a thing. [\u2026] A practice, however, has grown up in more modern times, which, if not introduced by Locke, has gained currency from his example, of applying the expression \"abstract name\" to all names which are the result of abstraction and generalization, and consequently to all general names, instead of confining it to the names of attributes."
+								},
+								{
+									"citation": "2012, Laurence, Stephen and Margolis, Eric, Abstraction and the Origin of General Ideas,  Philosophers' Imprint volume 12, no. 19, December 2012:",
+									"text": "Given their opposition to innate ideas, philosophers in the empiricist tradition have sought to explain how the rich and multifarious representational capacities that human beings possess derive from experience. A key explanatory strategy in this tradition, tracing back at least as far as John Locke\u2019s An Essay Concerning Human Understanding, is to maintain that the acquisition of many of these capacities can be accounted for by a process of abstraction. In fact, Locke himself claims in the Essay that abstraction is the source of all general ideas (1690/1975, II, xii, \u00a71). Although Berkeley and Hume were highly critical of Locke, abstraction as a source of generality has been a lasting theme in empiricist thought."
+								}
+							],
+							"relative": {
+								"Synonyms": [
+									"general",
+									"generalized",
+									"generic",
+									"nonspecific",
+									"representational"
+								],
+								"Antonyms": [
+									"discrete",
+									"specific",
+									"particular",
+									"precise"
+								]
+							}
+						},
+						{
+							"definition": "(archaic) Absent-minded. [First attested in the early 16th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1667, John Milton, \u201cBook VII\u201d, in Paradise Lost.\u00a0[\u2026], London:  [\u2026]  [Samuel Simmons], and are to be sold by Peter Parker\u00a0[\u2026]; [a]nd by Robert Boulter\u00a0[\u2026]; [a]nd Matthias Walker,\u00a0[\u2026], \u2192OCLC; republished as Paradise Lost in Ten Books:\u00a0[\u2026], London: Basil Montagu Pickering\u00a0[\u2026], 1873, \u2192OCLC, line 1099:",
+									"text": "Ab\u017ftract as in a tran\u017fe methought I \u017faw,abstract, as in a trance"
+								},
+								{
+									"citation": "1922, D. H. Lawrence, Aaron's Rod:",
+									"text": "White and abstract-looking, he sat and ate his dinner."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(art, often capitalized) Free from representational qualities, in particular the non-representational styles of the 20th century. [First attested in the mid 19th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1921, Aldous Huxley, chapter 12, in Crome Yellow\u200e[2], London: Chatto & Windus:",
+									"text": "But his design is wonderful. He\u2019s getting more and more abstract every day. He\u2019d given up the third dimension when I was there and was just thinking of giving up the second. Soon, he says, there\u2019ll be just the blank canvas. That\u2019s the logical conclusion. Complete abstraction."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(music) Absolute.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(dance) Lacking a story.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(art) Pertaining to the formal aspect of art, such as the lines, colors, shapes, and the relationships among them. [First attested in the mid 19th century.][1]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(object-oriented programming, of a class) Being a partial basis for subclasses rather than a complete template for objects.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To remove; to take away; withdraw. [First attested in the late 15th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1834, Harriet Martineau, Illustration of Political Economy, volume IX:",
+									"text": "The lightning of the public burdens, which at present abstract a large proportion of profits and wages."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, euphemistic) To steal; to take away; to remove without permission. [First attested in the late 15th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1872, William Black, The Strange Adventures of a Phaeton:",
+									"text": "Von Rosen had quietly abstracted the bearing-reins from the harness."
+								},
+								{
+									"citation": "1869, Bholanauth Chunder, The Travels of a Hindoo to Various Parts of Bengal and Upper India:",
+									"text": "The inlaid characters in diamond, and other precious stones, have been all abstracted away by the pelf-loving Jaut and Mahratta\u2014leaving the walls defaced with the hollow marks of the chisel."
+								},
+								{
+									"citation": "2014, A P Simester, J R Spencer, G R Sullivan, Simester and Sullivan's Criminal Law: Theory and Doctrine:",
+									"text": "Section 13 of the 1968 Act enacts a separate offence of dishonestly abstracting electricity. The separate offence is needed because electricity, like other forms of energy such as heat, is not property."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, obsolete) To extract by means of distillation. [Attested from the early 17th century until the early 18th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1601, John Marston, Antonio's Revenge, act II, scene I:",
+									"text": "Poison from roses who could e'er abstract?"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To draw off (interest or attention).\n\n",
+							"quote": [
+								{
+									"citation": "June 1869, William Blackwood, Late for the Train (published in Blackwood's Magazine)\n",
+									"text": "The young stranger had been abstracted and silent."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, reflexive, literally, figuratively) To withdraw oneself; to retire. [First attested in the mid 17th century.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "To conceptualize an ideal subgroup by means of the generalization of an attribute, as follows: by apprehending an attribute inherent to one individual, then separating that attribute and contemplating it by itself, then conceiving of that attribute as a general quality, then despecifying that conceived quality with respect to several or many individuals, and by then ideating a group composed of those individuals perceived to possess said quality.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, rare) To perform the process of abstraction.\n",
+							"quote": [
+								{
+									"citation": "1710, George Berkeley, A Treatise Concerning the Principles of Human Knowledge:",
+									"text": "I own myself able to abstract in one sense."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, fine arts) To create abstractions.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, computing) To produce an abstraction, usually by refactoring existing code. Generally used with \"out\".\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To consider abstractly; to contemplate separately or by itself; to consider theoretically; to look at as a general quality. [First attested in the early 17th century.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1781, Edward Gibbon, The History of the Decline and Fall of the Roman Empire, volume II:",
+									"text": "To abstract the notions of time, of space, and of matter."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To separate; to disengage. [First attested around 1350 to 1470.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1822, [Walter Scott], Peveril of the Peak.\u00a0[\u2026], volume (please specify |volume=I to IV), Edinburgh:  [\u2026]  Archibald Constable and Co.; London: Hurst, Robinson, and Co., \u2192OCLC:",
+									"text": "He was incapable of forming any opinion or resolution abstracted from his own prejudices."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To summarize; to abridge; to epitomize. [First attested in the late 16th century.][1]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u02cc\u00e6b\u02c8st\u0279\u00e6kt/"
+		],
+		[
+			"Southern England",
+			"/\u02c8\u00e6b\u02ccst\u0279\u00e6kt/"
+		],
+		[
+			"IPA",
+			"/\u02cc\u00e6b\u02c8st\u0279\u00e6kt/"
+		],
+		[
+			"Southern England",
+			"/\u02cc\u00e6b\u02c8st\u0279\u00e6kt/"
+		],
+		[
+			"UK",
+			"/\u02c8\u00e6b\u02ccst\u0279\u00e6kt/"
+		],
+		[
+			"IPA",
+			"/\u02c8\u00e6b\u02ccst\u0279\u00e6kt/"
+		]
+	]
+}

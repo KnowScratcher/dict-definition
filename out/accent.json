@@ -1,0 +1,223 @@
+{
+	"text": "accent",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">accent</i>, from Medieval Latin <i class=\"Latn mention\" lang=\"la\">accentus</i> and Old French <i class=\"Latn mention\" lang=\"fro\">accent</i>, <i class=\"Latn mention\" lang=\"fro\">acent</i>, both from Latin <i class=\"Latn mention\" lang=\"la\">accentus</i>, past participle of <i class=\"Latn mention\" lang=\"la\">accin\u014d</i> (\u201csing to, sing along\u201d). The word <i class=\"Latn mention\" lang=\"ang\">accent</i> had been borrowed into Old English already, but was lost and reborrowed in Middle English.\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "(linguistics) A higher-pitched or stronger (louder or\u00a0longer) articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.\n",
+							"quote": [],
+							"relative": {
+								"Synonym": [
+									"stress"
+								],
+								"Hyponyms": [
+									"stress",
+									"stress accent",
+									"pitch",
+									"pitch accent"
+								]
+							}
+						},
+						{
+							"definition": "(figuratively) Emphasis or importance in general.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(orthography) A mark or character used in writing, in order to indicate the place of the spoken accent, or to indicate the nature or quality of the vowel marked.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": " Modulation of the voice in speaking; the manner of speaking or pronouncing; a peculiar or characteristic modification of the voice, expressing emotion; tone.\n",
+							"quote": [
+								{
+									"citation": "c. 1603\u20131606, William Shakespeare, \u201cThe Tragedie of King Lear\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act II, scene ii]:",
+									"text": "I know, sir, I am no flatterer: he that beguiled you in a plain accent was a plain knave; which for my part I will not be, though I should win your displeasure to entreat me to 't."
+								},
+								{
+									"citation": "1696, Matthew Prior, \u201cFrom Celia to Damon\u201d, in Poems on Several Occasions:",
+									"text": "The tender Accent of a Woman's Cry / Will pass unheard, will unregarded die;"
+								},
+								{
+									"citation": "1815, Jane Austen, Emma, volume I, chapter 15:",
+									"text": "And he repeated her words with such assurance of accent, such boastful pretence of amazement, that she could not help replying with quickness \u2026"
+								},
+								{
+									"citation": "1981 December 27, Rudy Kikel, \u201cStill Angry, After All These Years\u201d, in Gay Community News, volume 9, number 23, page 10:",
+									"text": "Edmund White, John Mitzel, and David Goodstein, among others, have taken pains to distinguish two kinds of \"liberation\" envisioned by the members of our recently emerged movement: assimilation into the body politic \u2014 or a total restructuring of the sex-role system. The second path amounts to revolutionary subversion, but we hear little about it here, except in the accents of reproach: to the idea that gay people might be \"pioneers in the area of relationship\" and that \"our greatest offering to civilization is the beauty of sexual freedom,\" McNaught responds: \"Bunk!\""
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(informal, sometimes proscribed) A manner of pronunciation suggesting that the speaker is from a different region; a foreign accent.\n\n",
+							"quote": [
+								{
+									"citation": "2015 November 14, Adam Gopnik, quoting C\u00e9lia, \u201cTerror Strikes in Paris\u201d, in The New Yorker\u200e[1], archived from the original on 2022-12-19:",
+									"text": "They were all Middle Eastern types but spoke French without any accent."
+								},
+								{
+									"citation": "2016 June 8, Tyler Mears, \u201cI used to hide my Valleys accent in case people thought I was less intelligent - which was completely stupid\u201d, in WalesOnline\u200e[2], archived from the original on 2023-01-10:",
+									"text": "Growing up in the Rhondda and having a strong accent was never a problem for me and my voice never really stood out from the crowd."
+								},
+								{
+									"citation": "2018 January 24, Lakshine Sathiyanathan, Lisa Xing, quoting Mariya Miloshevych, \u201cWhy some people try to chip away at their accent\u201d, in CBC News\u200e[3], archived from the original on 2022-12-09:",
+									"text": "It's really hard to get in an audition room when you have an accent. Rather than being treated as the other people, you are falling into a category of foreigners who can't really maintain the role."
+								},
+								{
+									"citation": "2020 December 30, Christi Carras, quoting Rishi Maharaj, \u201c'Schitt's Creek' star Rizwan Manji defends his character's Indian accent\u201d, in Los Angeles Times\u200e[4], archived from the original on 2022-12-09:",
+									"text": "Why go to the effort of writing in a character with an Indian name played by an Indian actor whose main personality trait is that he is stupid and has an accent?"
+								},
+								{
+									"citation": "2022 March 22, Elise Hu, Jinae West, Jordana Hochman, Andrea Gutierrez, \u201cRejecting assimilation in 'You Sound Like a White Girl'\u201d, in NPR\u200e[5], archived from the original on 2022-12-09:",
+									"text": "But over the years, even after perfecting \"accent-less\" English, graduating from college, getting a job at Goldman Sachs, and becoming an American citizen, Arce still felt like she didn't belong."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(sign languages) A distinctive manner of producing a sign language, such as someone who does not normally use a certain sign language might have when using it.\n",
+							"quote": [
+								{
+									"citation": "2008, Jeremy Linn Brunson, The Practice and Organization of Sign Language, page 76:",
+									"text": "I believe I still retain some of my hearing accent when I use American Sign Language."
+								},
+								{
+									"citation": "2015 November 5, Nina Porzucki, The World\u200e[6], archived from the original on 2022-12-07:",
+									"text": "Cheesesteaks, Peanut Chews, Tastykakes, oh yeah, the Liberty Bell \u2014 there's so much to love about Philadelphia, but one of the best things about the city of Brotherly Love is the accent. We're not talking about spoken English \u2014 we're talking about American Sign Language."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(linguistics, sociolinguistics) The distinctive manner of pronouncing a language associated with a particular region, social group, etc., whether of a native speaker or a foreign speaker; the phonetic and phonological aspects of a dialect.\n\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "A word; a significant tone or sound.\n",
+							"quote": [
+								{
+									"citation": "1895, Marie Corelli, The Sorrows of Satan: or The Strange Experience of One Geoffrey Tempest, Millionaire\u00a0[\u2026], London: Methuen & Co.\u00a0[\u2026], \u2192OCLC, page 20:",
+									"text": "I heard my landlady's accents attuned to nervous civility, mingling with the mellow tones of a deep masculine voice,"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(usually plural only) Expressions in general; speech.\n",
+							"quote": [
+								{
+									"citation": "1697, Virgil, \u201cPastoral 3\u201d, in John Dryden, transl., The Works of Virgil: Containing His Pastorals, Georgics, and \u00c6neis.\u00a0[\u2026], London:  [\u2026]  Jacob Tonson,\u00a0[\u2026], \u2192OCLC:",
+									"text": "Winds! on your wings to Heaven her accents bear, / Such words as Heaven alone is fit to hear."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(prosody, poetry) Stress laid on certain syllables of a verse.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(music) A regularly recurring stress upon the tone to mark the beginning, and, more feebly, the third part of the measure.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(music) A special emphasis of a tone, even in the weaker part of the measure.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(music) A mark used to represent this special emphasis.\u00a0The third and fourth symbols are accents (marks used to represent special emphasis in music).",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(music) The rhythmical accent, which marks phrases and sections of a period.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(mathematics) A prime symbol.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Emphasis laid on a part of an artistic design or composition; an emphasized detail, in particular a detail in sharp contrast to its surroundings.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "A very small gemstone set into a piece of jewellery.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(archaic) Utterance.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		},
+		{
+			"etymologyHTML": "<p>From Middle French <i class=\"Latn mention\" lang=\"frm\">accenter</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">accenter</i>, from Latin <i class=\"Latn mention\" lang=\"la\">accent\u014d</i>, from <i class=\"Latn mention\" lang=\"la\">accentus</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To express the accent of vocally; to utter with accent.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To mark emphatically; to emphasize; to accentuate; to make prominent.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To mark with written accents.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Received Pronunciation, Ireland",
+			"/\u02c8ak.s\u0259nt/"
+		],
+		[
+			"General Australian",
+			"/\u02c8\u00e6k.s\u025bnt/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u00e6k\u02c8s\u025bnt/"
+		],
+		[
+			"New Zealand",
+			"/\u02c8\u025bk.sent/"
+		],
+		[
+			"US, Canada",
+			"/\u02c8\u00e6k.s\u025bnt/"
+		],
+		[
+			"US",
+			"/\u00e6k\u02c8s\u025bnt/"
+		]
+	]
+}

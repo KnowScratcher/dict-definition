@@ -1,0 +1,95 @@
+{
+	"text": "accomplish",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">accomplisshen</i>, <i class=\"Latn mention\" lang=\"enm\">acomplissen</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">acompliss-</i>, extended stem of <i class=\"Latn mention\" lang=\"fro\">acomplir</i> (Modern French <i class=\"Latn mention\" lang=\"fr\">accomplir</i>), from Vulgar Latin <i class=\"Latn mention\" lang=\"la\">*(ac)compl\u012bre</i>, from Latin <i class=\"Latn mention\" lang=\"la\">compl\u0113re</i> (\u201cfill up/out, complete\u201d, whence English <i class=\"Latn mention\" lang=\"en\">complete</i>).\n</p><p>First attested in the late 14th century.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To finish successfully.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To complete, as time or distance.\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Daniel 9:2:",
+									"text": "That He would accomplish seventy years in the desolations of Jerusalem."
+								},
+								{
+									"citation": "1855, William H[ickling] Prescott, \u201cWar with France\u201d, in History of the Reign of Philip the Second, King of Spain, volume I, Boston, Mass.: Phillips, Sampson, and Company, \u2192OCLC, book I, page 231:",
+									"text": "But the rising ground which lay between him and the French prevented him from seeing the enemy until he had accomplished half a league or more."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To execute fully; to fulfill; to complete successfully.\n\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Luke 22:37:",
+									"text": "This that is written must yet be accomplished in me"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, archaic) To equip or furnish thoroughly; hence, to complete in acquirements; to render accomplished; to polish.\n",
+							"quote": [
+								{
+									"citation": "1599 (date written), William Shakespeare, \u201cThe Life of Henry the Fift\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act IV, (please specify the scene number in lowercase Roman numerals)]:",
+									"text": "The armorers accomplishing the knights"
+								},
+								{
+									"citation": "1638, John Wilkins, The Discovery of a World in the Moone:",
+									"text": "It [the moon] is fully accomplished for all those ends to which Providence did appoint it."
+								},
+								{
+									"citation": "1863, Charles Cowden Clarke, Shakespeare's Characters:",
+									"text": "These qualities . . . go to accomplish a perfect woman."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, obsolete) To gain; to obtain.\n",
+							"quote": [
+								{
+									"citation": "c. 1591\u20131592 (date written), William Shakespeare, \u201cThe Third Part of Henry the Sixt,\u00a0[\u2026]\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act III, scene ii]:",
+									"text": "And more unlikely / Than to accomplish twenty golden crowns!"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, Philippines) To fill out a form.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Received Pronunciation",
+			"/\u0259\u02c8k\u028cm.pl\u026a\u0283/"
+		],
+		[
+			"Canada",
+			"/\u0259\u02c8k\u0252m.pl\u026a\u0283/"
+		],
+		[
+			"New Zealand, General Australian",
+			"/\u0259\u02c8k\u0250m.pl\u026a\u0283/"
+		],
+		[
+			"General American",
+			"/\u0259\u02c8k\u0251m.pl\u026a\u0283/"
+		]
+	]
+}

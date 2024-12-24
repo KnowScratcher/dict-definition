@@ -1,0 +1,119 @@
+{
+	"text": "abbreviate",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">abbreviaten</i>, from Latin <i class=\"Latn mention\" lang=\"la\">abbrevi\u0101tus</i>, perfect passive participle of <i class=\"Latn mention\" lang=\"la\">abbrevi\u014d</i> (\u201cto shorten\u201d), formed from <i class=\"Latn mention\" lang=\"la\">ad</i> + <i class=\"Latn mention\" lang=\"la\">brevi\u014d</i> (\u201cshorten\u201d), from <i class=\"Latn mention\" lang=\"la\">brevis</i> (\u201cshort\u201d). Alternatively, a back-formation from <i class=\"Latn mention\" lang=\"en\">abbreviation</i>. Doublet of <i class=\"Latn mention\" lang=\"en\">abridge</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(obsolete, transitive) To shorten by omitting parts or details. [Attested from around (1350 to 1470) until the late 17th century.][2]\n",
+							"quote": [
+								{
+									"citation": "1625, Francis [Bacon], \u201cOf Dispatch. XXV.\u201d, in The Essayes\u00a0[\u2026], 3rd edition, London:  [\u2026]  Iohn Haviland for Hanna Barret, \u2192OCLC, pages 142\u2013143:",
+									"text": "But it is one Thing, to Abbreuiate by Contracting, Another by Cutting off:  [\u2026]"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(obsolete, intransitive) To speak or write in a brief manner. [Attested from the late 16th century until the early 17th century.][2]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To make shorter; to shorten (in time); to abridge; to shorten by ending sooner than planned. [First attested from around (1350 to 1470).][2]\n",
+							"quote": [
+								{
+									"citation": "2019 November 21, Samanth Subramanian, \u201cHow our home delivery habit reshaped the world\u201d, in Katharine Viner, editor, The Guardian\u200e[1], London: Guardian News & Media, \u2192ISSN, \u2192OCLC, archived from the original on 2019-11-21:",
+									"text": "But as delivery schedules have dwindled into hours, even the gigantic warehouse full of stuff in a central place such as the triangle is proving insufficient. Now, companies also need smaller distribution centres around the country, to respond rapidly to orders and to abbreviate the last mile as much as possible."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To reduce a word or phrase by means of contraction or omission to a shorter recognizable form. [First attested in the late 16th century.][2]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, mathematics) To reduce to lower terms, as a fraction.\n",
+							"quote": [],
+							"relative": {
+								"Synonym": [
+									"simplify"
+								]
+							}
+						}
+					]
+				}
+			]
+		},
+		{
+			"etymologyHTML": "<p>From Late Latin <i class=\"Latn mention\" lang=\"la\">abbrevi\u0101tus</i>, perfect passive participle of <i class=\"Latn mention\" lang=\"la\">abbrevi\u014d</i> (\u201cabbreviate\u201d).\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(obsolete) Abbreviated; abridged; shortened. [Attested from around (1350 to 1470) until the late 17th century][2]\n",
+							"quote": [
+								{
+									"citation": "1871, John Earle, The Philology of the English Tongue:",
+									"text": "The curt form of gent as a less ceremonious substitute for the full expression of \u2018gentleman,\u2019 had once made considerable way, but its career was blighted in a court of justice. It is about twenty years ago that two young men, being brought before a London magistrate, described themselves as \u2018gents.\u2019 The magistrate said that he considered that a designation little better than \u2018blackguard.\u2019 The abbreviate form has never been able to recover that shock."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(biology) Having one part relatively shorter than another or than the ordinary type. [First attested in the mid 19th century.][2]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "(obsolete, Scotland) An abridgment. [Mid 16th century.][2][3]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Received Pronunciation",
+			"/\u0259\u02c8b\u0279i\u02d0.vi.e\u026at/"
+		],
+		[
+			"(adjective)",
+			"/\u0259\u02c8b\u0279i.vi.\u0259t/"
+		],
+		[
+			"Scotland",
+			"/\u0259\u02c8briviet/"
+		],
+		[
+			"(noun)",
+			"/\u0259\u02c8b\u0279i.vi.e\u026at/"
+		],
+		[
+			"General American",
+			"/\u0259\u02c8b\u0279i.vi.\u0259t/"
+		],
+		[
+			"General American",
+			"/\u0259\u02c8b\u0279i.vi.e\u026at/"
+		],
+		[
+			"US",
+			"/\u0259\u02c8b\u0279i.vi.e\u026at/"
+		]
+	]
+}

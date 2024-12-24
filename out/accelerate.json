@@ -1,0 +1,76 @@
+{
+	"text": "accelerate",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>First attested in the 1520s. Either from Latin <i class=\"Latn mention\" lang=\"la\">acceler\u0101tus</i>, perfect passive participle of <i class=\"Latn mention\" lang=\"la\">acceler\u014d</i> (\u201cI accelerate, hasten\u201d), formed from <i class=\"Latn mention\" lang=\"la\">ad</i> + <i class=\"Latn mention\" lang=\"la\">celer\u014d</i> (\u201cI hasten\u201d), which is from <i class=\"Latn mention\" lang=\"la\">celer</i> (\u201cquick\u201d) (see celerity), or back-formation from <i class=\"Latn mention\" lang=\"en\">acceleration</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To cause to move faster; to quicken the motion of; to add to the speed of.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To quicken the natural or ordinary progression or process of.\n\n",
+							"quote": [
+								{
+									"citation": "2013 September-October, Michael Sivak, \u201cWill AC Put a Chill on the Global Energy Supply?\u201d, in American Scientist:",
+									"text": "Nevertheless, it is clear that the global energy demand for air-conditioning will grow substantially as nations become more affluent, with the consequences of climate change potentially accelerating the demand."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, physics) To cause a change of velocity.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To hasten, as the occurrence of an event.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, education) To enable a student to finish a course of study in less than normal time.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To become faster; to begin to move more quickly.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) Grow; increase.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(archaic) Accelerated; quickened; hastened; hurried.\n",
+							"quote": [
+								{
+									"citation": "1662, Thomas Salusbury, Galileo's Dialogue Concerning the Two Chief World Systems, Dialogue 2:",
+									"text": "... a general knowledg of the definition of motion, and of the distinction of natural and violent, even and accelerate, and the like, sufficing."
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Received Pronunciation",
+			"/\u0259k\u02c8s\u025bl.\u0259\u02cc\u0279e\u026at/"
+		]
+	]
+}

@@ -1,0 +1,120 @@
+{
+	"text": "abstraction",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">abstraccyone</i>; either from Middle French <i class=\"Latn mention\" lang=\"frm\">abstraction</i> or from Medieval Latin <i class=\"Latn mention\" lang=\"la\">abstr\u0101cti\u014d</i> (\u201cseparation\u201d), from Latin <i class=\"Latn mention\" lang=\"la\">abstrah\u014d</i> (\u201cdraw away\u201d). Equivalent to <i class=\"Latn mention\" lang=\"en\">abstract</i> +\u200e <i class=\"Latn mention\" lang=\"en\">-ion</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "(euphemistic) The taking surreptitiously for one's own use part of the property of another; purloining. [First attested around 1350 to 1470.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(engineering) Removal of water from a river, lake, or aquifer.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "The act of abstracting, separating, withdrawing, or taking away; withdrawal; the state of being taken away. [First attested around 1350 to 1470.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1848, J. S. Mill, Principles of Political Economy with some of their Applications to Social Philosophy:",
+									"text": "The cancelling of the debt would be no destruction of wealth, but a transfer of it: a wrongful abstraction of wealth from certain members of the community, for the profit of the government, or of the tax-payers."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "A separation from worldly objects; a recluse life; the withdrawal from one's senses. [First attested around 1350 to 1470.][1]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": " The act of focusing on one characteristic of an object rather than the object as a whole group of characteristics; the act of separating said qualities from the object or ideas. [First attested in the late 16th century.][1]\n\n\n",
+							"quote": [
+								{
+									"citation": "c. 1837, W. Hamilton, Lectures on Metaphysics and Logic, published 1860, Lecture XXXV, page 474:",
+									"text": "Abstraction is no positive act: it is simply the negative of attention."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Any characteristic of an individual object when that characteristic has been separated from the object and is contemplated alone as a quality having independent existence.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "A member of an idealized subgroup when contemplated according to the abstracted quality which defines the subgroup.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "The act of comparing commonality between distinct objects and organizing using those similarities; the act of generalizing characteristics; the product of said generalization. [First attested in the late 16th century.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "An idea or notion of an abstract or theoretical nature. [First attested in the late 16th century.][1]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Absence or absorption of mind; inattention to present objects; preoccupation. [First attested in the late 18th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1832, Letitia Elizabeth Landon, Heath's Book of Beauty, 1833, The Talisman, page 55:",
+									"text": "\"One penny, sir!\" He was roused at once from his abstraction; for it was a question to himself whether he had even that in his pocket. Sixpence was, however, discovered; he paid the toll, and passed on."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(art) An abstract creation, or piece of art; qualities of artwork that are free from representational aspects. [First attested in the early 20th century.][2][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(chemistry) A separation of volatile parts by the act of distillation.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "An idea of an idealistic, unrealistic or visionary nature.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "The result of mentally abstracting an idea; the product of any mental process involving a synthesis of: separation, despecification, generalization, and ideation in any of a number of combinations.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(geology) The merging of two river valleys by the larger of the two deepening and widening so much so, as to assimilate the smaller.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(computing) Hiding implementation details from the interface of a component, to decrease complexity through interdependency and improve modularity; a construct that serves as such.\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u00e6b\u02c8st\u0279\u00e6k.\u0283n\u0329/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u0259b\u02c8st\u0279\u00e6k.\u0283n\u0329/"
+		]
+	]
+}

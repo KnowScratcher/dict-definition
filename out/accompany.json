@@ -1,0 +1,89 @@
+{
+	"text": "accompany",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">accompanien</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">acompagner</i> (\u201cto associate with\u201d), from <i class=\"Latn mention\" lang=\"fro\">compaing</i> (\u201ccompanion\u201d), nominative singular of <i class=\"Latn mention\" lang=\"fro\">compaignon</i> (\u201ccompanion\u201d). See company.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To go with or attend as a companion or associate; to keep company with; to go along with.\n\n",
+							"quote": [
+								{
+									"citation": "1804, Richard Glover, (Please provide the book title or journal name):",
+									"text": "The Persian dames, [\u2026] / In sumptuous cars, accompanied his march."
+								},
+								{
+									"citation": "1581, Philip Sidney, An Apology of Poetry, or a Defense of Poesy, Book I:",
+									"text": "They are never alone that are accompanied with noble thoughts."
+								},
+								{
+									"citation": "1979, Thomas Babington Macaulay, The History of England:",
+									"text": "He was accompanied by two carts filled with wounded rebels."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To supplement with; add to.\n",
+							"quote": [
+								{
+									"citation": "1918, W[illiam] B[abington] Maxwell, chapter V, in The Mirror and the Lamp, Indianapolis, Ind.: The Bobbs-Merrill Company, \u2192OCLC:",
+									"text": "He was thinking; but the glory of the song, the swell from the great organ, the clustered lights,  [\u2026] , the height and vastness of this noble fane, its antiquity and its strength\u2014all these things seemed to have their part as causes of the thrilling emotion that accompanied his thoughts."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, music) To perform an accompanying part or parts in a composition.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, music) To perform an accompanying part next to (another instrument or musician).\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, obsolete) To associate in a company; to keep company.\n",
+							"quote": [
+								{
+									"citation": "1601, C[aius] Plinius Secundus [i.e., Pliny the Elder], \u201c(please specify |book=I to XXXVII)\u201d, in Philemon Holland, transl., The Historie of the World. Commonly Called, The Naturall Historie of C. Plinius Secundus.\u00a0[\u2026], (please specify |tome=1 or 2), London:  [\u2026]  Adam Islip, \u2192OCLC:",
+									"text": "Men say that they will drive away one another,  [\u2026]  and not accompanied together."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, obsolete) To cohabit (with). (Can we add an example for this sense?)",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, obsolete) To cohabit with; to coexist with; occur with.\n",
+							"quote": [
+								{
+									"citation": "1534, John Bourchier, 2nd Baron Berners, Golden Book of Marcus Aurelius:",
+									"text": "Gijb, Suche as accompanyeth with man-killers and murtherers."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "To be found at the same time.\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"IPA",
+			"/\u0259\u02c8k\u028cm.p\u0259.ni/"
+		]
+	]
+}

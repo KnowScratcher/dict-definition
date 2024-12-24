@@ -1,0 +1,172 @@
+{
+	"text": "abide",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">abyden</i>, from Old English <i class=\"Latn mention\" lang=\"ang\">\u0101b\u012bdan</i> (\u201cto abide, wait, remain, delay, remain behind; survive; wait for, await; expect\u201d), from Proto-Germanic <i class=\"Latn mention\" lang=\"gem-pro\">*uzb\u012bdan\u0105</i> (\u201cto expect, tolerate\u201d), equivalent to <i class=\"Latn mention\" lang=\"en\">a-</i> +\u200e <i class=\"Latn mention\" lang=\"en\">bide</i>. Cognate with Scots <i class=\"Latn mention\" lang=\"sco\">abide</i> (\u201cto abide, remain\u201d), Middle High German <i class=\"Latn mention\" lang=\"gmh\">erb\u012bten</i> (\u201cto await, expect\u201d), Gothic <i class=\"Goth mention\" lang=\"got\">\ud800\udf3f\ud800\udf43\ud800\udf31\ud800\udf34\ud800\udf39\ud800\udf33\ud800\udf30\ud800\udf3d</i> (usbeidan, \u201cto expect, await, have patience\u201d). The sense of <i>pay for</i> is due to influence from <i class=\"Latn mention\" lang=\"en\">aby</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To endure without yielding; to withstand. [from mid-12th c.][2]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To bear patiently. [from late 15th c.][2]\n\n",
+							"quote": [
+								{
+									"citation": "1593, anonymous author, The Life and Death of Iacke Straw\u00a0[\u2026], Act III:",
+									"text": "VVe will be Kings and Lords within our \u017felues,And not abide the pride of tyrranie."
+								},
+								{
+									"citation": "c. 1596\u20131599 (date written), William Shakespeare, \u201cThe Second Part of Henry the Fourth,\u00a0[\u2026]\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act III, scene ii], page 87, column 2:",
+									"text": "Neuer neuer: \u017fhe would alwayes \u017fay \u017fhee could not abide M[aster] Shallow."
+								},
+								{
+									"citation": "1978 December 2, \u201c!HELP!! (personal advertisement)\u201d, in Gay Community News, volume 6, number 19, page 14:",
+									"text": "We are vegetarian leaning, dislike smoking and alcohol, cannot abide drugs."
+								},
+								{
+									"citation": "1998, Joel Coen, Ethan Coen, The Big Lebowski (motion picture), spoken by The Big Lebowski (David Huddleston):",
+									"text": "By God sir. I will not abide another toe."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To pay for; to stand the consequences of. [from late 16th c.][2]\n\n",
+							"quote": [
+								{
+									"citation": "[c. 1595\u20131596 (date written), William Shakespeare, \u201cA Midsommer Nights Dreame\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies: Published According to the True Originall Copies (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act III, scene ii], page 154, column 2:",
+									"text": "Di\u017fparage not the faith thou do\u017ft not know, / Le\u017ft to thy perill thou abide it deare.]"
+								},
+								{
+									"citation": "1599 (first performance), William Shakespeare, \u201cThe Tragedie of Iulius C\u00e6sar\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act III, scene ii], page 122, column 1:",
+									"text": "If it be found \u017fo, \u017fome will deere abide it."
+								},
+								{
+									"citation": "1667, John Milton, \u201cBook IV\u201d, in Paradise Lost.\u00a0[\u2026], London:  [\u2026]  [Samuel Simmons], and are to be sold by Peter Parker\u00a0[\u2026]; [a]nd by Robert Boulter\u00a0[\u2026]; [a]nd Matthias Walker,\u00a0[\u2026], \u2192OCLC; republished as Paradise Lost in Ten Books:\u00a0[\u2026], London: Basil Montagu Pickering\u00a0[\u2026], 1873, \u2192OCLC:",
+									"text": "Ay me, they little know / How dearly I abide that boa\u017ft \u017fo vaine, / Under what torments inwardly I groane [\u2026]"
+								}
+							],
+							"relative": {
+								"Synonyms": [
+									"answer for",
+									"suffer",
+									"atone"
+								]
+							}
+						},
+						{
+							"definition": "Used in a phrasal verb: abide by (\u201cto accept and act in accordance with\u201d).\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, obsolete) To wait in expectation. [mid-12th\u2013mid-17th c.][2]\n\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Genesis 22:5:",
+									"text": "And Abraham \u017faid vnto his yong men, Abide you here with the a\u017f\u017fe, and I and the lad will goe yonder and wor\u017fhip, and come againe to you."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, obsolete) To pause; to delay. [from ca. 1150\u20141350 to mid-17th c.][2]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, archaic, Scotland) To stay; to continue in a place; to remain stable or fixed in some state or condition; to be left. [from ca. 1150\u20141350][2]\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Ecclesiastes 1:4:",
+									"text": "One generation passeth away, and another generation commeth: but the earth abideth for euer."
+								},
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, 1 Corinthians 7:20:",
+									"text": "Let euery man abide in the \u017fame calling wherein he was called."
+								},
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Luke 24:29:",
+									"text": "But they constrained him, saying, Abide with vs, for it is towards euening, and the day is farre spent: And he went in, to tarrie with them."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, archaic) To have one's abode. [from ca. 1350\u20141470][2]\n\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Genesis 24:55:",
+									"text": "And her brother and her mother \u017faid, Let the dam\u017fell abide with vs a few dayes, at the lea\u017ft ten\u202f; after that, \u017fhe \u017fhall goe."
+								},
+								{
+									"citation": "1953, Samuel Beckett, Watt, 1st American edition, New York, N.Y.: Grove Press, published 1959, \u2192OCLC:",
+									"text": "In empty hush, in airless gloom, Mr. Knott abode, in the large room set aside for his exclusive enjoyment, and that of his attendant."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, archaic) To endure; to remain; to last. [from ca. 1350\u20141470][2]\n",
+							"quote": [
+								{
+									"citation": "1998, Joel and Ethan Coen, The Big Lebowski (motion picture), spoken by Narrator (Sam Elliot):",
+									"text": "The Dude abides."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, archaic) To stand ready for; to await for someone; watch for. [from early 12th c.][2]\n\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Acts 20:23:",
+									"text": "Saue that the holy Gho\u017ft witne\u017f\u017feth in euery city, \u017faying that bonds and afflictions abide me."
+								},
+								{
+									"citation": "1859, Alfred Tennyson, \u201cEnid\u201d, in Idylls of the King, London: Edward Moxon & Co.,\u00a0[\u2026], \u2192OCLC, page 52:",
+									"text": "I will abide the coming of my lord."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, obsolete) To endure or undergo a hard trial or a task; to stand up under. [from ca. 1150\u20141350 to early 18th c.][2]\n",
+							"quote": [
+								{
+									"citation": "1859, Alfred Tennyson, \u201cEnid\u201d, in Idylls of the King, London: Edward Moxon & Co.,\u00a0[\u2026], \u2192OCLC, page 31:",
+									"text": "[\u2026] And shalt abide her judgment on it."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, archaic) To await submissively; accept without question; submit to. [from ca. 1350\u20141470][2]\n",
+							"quote": [
+								{
+									"citation": "1595 December 9 (first known performance), William Shakespeare, \u201cThe life and death of King Richard the Second\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies: Published According to the True Originall Copies (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act V, scene vi], page 45:",
+									"text": "The grand Con\u017fpirator, Abbot of We\u017ftmin\u017fter, / With clog of Con\u017fcience, and \u017fowre Melancholly, / Hath yeelded vp his body to the graue\u202f: / But here is Carlile, liuing to abide / Thy Kingly doome, and \u017fentence of his pride."
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u0259\u02c8ba\u026ad/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u0259\u02c8ba\u026ad/"
+		]
+	]
+}

@@ -1,0 +1,190 @@
+{
+	"text": "absent",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">absent</i>, from Middle French <i class=\"Latn mention\" lang=\"frm\">absent</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">ausent</i>, and their source, Latin <i class=\"Latn mention\" lang=\"la\">absens</i>, present participle of <i class=\"Latn mention\" lang=\"la\">absum</i> (\u201cto be away from\u201d), from <i class=\"Latn mention\" lang=\"la\">ab</i> (\u201caway\u201d) + <i class=\"Latn mention\" lang=\"la\">sum</i> (\u201cto be\u201d).\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(not comparable) Being away from a place; withdrawn from a place; existing but not present; (sometimes) missing. [First attested around 1350 to 1470.][2]\n\n",
+							"quote": [
+								{
+									"citation": "1623, William Shakespeare, All\u2019s Well That Ends Well, II-iii:",
+									"text": "Expecting absent friends."
+								}
+							],
+							"relative": {
+								"Antonym": [
+									"present"
+								],
+								"Coordinate term": [
+									"accounted for"
+								]
+							}
+						},
+						{
+							"definition": "(not comparable) Not existing. [First attested around 1350 to 1470.][2]\n",
+							"quote": [],
+							"relative": {
+								"Antonyms": [
+									"present",
+									"existing",
+									"extant"
+								],
+								"Hyponym": [
+									"lacking (denotes that the absent thing ought to exist)"
+								]
+							}
+						},
+						{
+							"definition": "(comparable) Inattentive to what is passing; absent-minded; preoccupied. [First attested in the early 18th century.][2]\n\n",
+							"quote": [
+								{
+									"citation": "1746-1747, Chesterfield, Letters to his Son:",
+									"text": "What is commonly called an absent man is commonly either a very weak or a very affected man."
+								},
+								{
+									"citation": "1902, John Buchan, The Outgoing of the Tide:",
+									"text": "For days Ailie had an absent eye and a sad face, and it so fell out that in all that time young Heriotside, who had scarce missed a day, was laid up with a broken arm and never came near her."
+								}
+							],
+							"relative": {
+								"Antonym": [
+									"present"
+								]
+							}
+						}
+					]
+				},
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "(with definite article) Something absent, especially absent people collectively; those who were or are not there. [from 15th c.]\n",
+							"quote": [
+								{
+									"citation": "1772, Frances Burney, Journals & Letters, Penguin 2001, 30 May:\n",
+									"text": "The Applause he met with exceeds all belief of the Absent."
+								},
+								{
+									"citation": "1947, Cecil Day Lewis, Poetic Image:",
+									"text": "That very sense of longing, of yearning for the absent, which 'nostalgia' conveys to us now."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(obsolete, Scotland) An absentee; a person who is not there. [15th\u201319th c.][3]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Preposition",
+					"definitions": [
+						{
+							"definition": "In the absence of; without; except. [First attested in the mid 20th century.][2]\n\n",
+							"quote": [
+								{
+									"citation": "1919, \u201cState vs. Britt, Supreme Court of Missouri, Division 2\u201d, in The Southwestern Reporter, page 427:",
+									"text": "If the accused refuse upon demand to pay money or deliver property (absent any excuse or excusing circumstance) which came into his hands as a bailee, such refusal might well constitute some evidence of conversion, with the requisite fraudulent intent required by the statute."
+								},
+								{
+									"citation": "2011, David Elstein, London Review of Books, volume 33, number 15:",
+									"text": "the Princess Caroline case  [\u2026]  established that \u2013 absent a measurable \u2018public interest\u2019 in publication \u2013 she was safe from being photographed while out shopping."
+								},
+								{
+									"citation": "2013, Stephen K. Wegren, \u201cAgriculture\u201d, in Stephen K. Wegren, editor, Return to Putin's Russia: Past Imperfect, Future Uncertain, 5th edition, Lanham, MD: Rowman & Littlefield Publishers, Inc., \u2192ISBN, page 223:",
+									"text": "About 25 percent of Russia\u2019s large farms continue to be unprofitable, and that number would be considerably higher absent government subsidies and assistance programs."
+								},
+								{
+									"citation": "2019 September 5, Ian Bogost, \u201cI tried to limit my screen time (It didn't go well)\u201d, in The Atlantic\u200e[1]:",
+									"text": "And the distraction-management software Freedom offers a mode that won\u2019t unlock affected apps absent a telephone-support call."
+								},
+								{
+									"citation": "2020, Anu Bradford, \u201c8. Is the Brussels Effect Beneficial?\u201d, in The Brussels Effect. How the European Union Rules the World, Oxford University Press, \u2192ISBN, page 258:",
+									"text": "California cannot promulgate regulations that are inconsistent with US federal laws absent an explicit waiver from the federal government."
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		},
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">absenten</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">absenter</i>, from Late Latin <i class=\"Latn mention\" lang=\"la\">absent\u0101re</i> (\u201ckeep away, be away\u201d).\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(reflexive) To keep (oneself) away.\n\n",
+							"quote": [
+								{
+									"citation": "1701-1703, Addison, Remarks on Italy:",
+									"text": "If after due summons any member absents himself, he is to be fined."
+								},
+								{
+									"citation": "1943 November \u2013 1944 February (date written; published 1945 August 17), George Orwell [pseudonym; Eric Arthur Blair], Animal Farm\u00a0[\u2026], London: Secker & Warburg, published May 1962, \u2192OCLC:",
+									"text": "This work was strictly voluntary, but any animal who absented himself from it would have his rations reduced by half."
+								},
+								{
+									"citation": "1986 December 7, Marcos Bisticas-Cocoves, \u201cJust the Facts, Miss Thing\u201d, in Gay Community News, volume 14, number 21, page 1:",
+									"text": "Some people expect that the news should be written \"professionally,\" that it should conform to certain \"journalistic standards,\" and that it should not \"editorialize.\" And this is tantamount to saying it should be written objectively, that we should absent ourselves when writing copy."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, archaic) To keep (someone) away. [First attested around 1350 to 1470.][2]\n",
+							"quote": [
+								{
+									"citation": "1667, John Milton, \u201cBook IX\u201d, in Paradise Lost.\u00a0[\u2026], London:  [\u2026]  [Samuel Simmons], and are to be sold by Peter Parker\u00a0[\u2026]; [a]nd by Robert Boulter\u00a0[\u2026]; [a]nd Matthias Walker,\u00a0[\u2026], \u2192OCLC; republished as Paradise Lost in Ten Books:\u00a0[\u2026], London: Basil Montagu Pickering\u00a0[\u2026], 1873, \u2192OCLC:",
+									"text": "Go; for thy stay, not free, absents thee more;"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, obsolete) Stay away; withdraw. [Attested from around 1350 to 1470 until the late 18th century.][2]\n",
+							"quote": [
+								{
+									"citation": "1855, Frederick Douglass, My Bondage and My Freedom.\u00a0[\u2026], New York, Auburn, N.Y.: Miller, Orton & Mulligan\u00a0[\u2026], \u2192OCLC:",
+									"text": "The iron rule of the plantation, always passionately and violently enforced in that neighborhood, makes flogging the penalty of failing to be in the field before sunrise in the morning, unless special permission be given to the absenting slave."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, rare) Leave. [First attested around 1350 to 1470.][2]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Received Pronunciation",
+			"/\u00e6b\u02c8s\u025bnt/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u02c8\u00e6b.sn\u0329t/"
+		],
+		[
+			"US",
+			"/\u00e6b\u02c8s\u025bnt/"
+		],
+		[
+			"US",
+			"/\u02c8\u00e6b.sn\u0329t/"
+		]
+	]
+}

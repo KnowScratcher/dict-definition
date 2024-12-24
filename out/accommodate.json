@@ -1,0 +1,121 @@
+{
+	"text": "accommodate",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>1530s, from Latin <i class=\"Latn mention\" lang=\"la\">accommod\u0101tus</i>, perfect passive participle of <i class=\"Latn mention\" lang=\"la\">accommod\u014d</i>; <i class=\"Latn mention\" lang=\"la\">ad</i> + <i class=\"Latn mention\" lang=\"la\">commod\u014d</i> (\u201cmake fit, help\u201d); <i class=\"Latn mention\" lang=\"la\">com-</i> + <i class=\"Latn mention\" lang=\"la\">modus</i> (\u201cmeasure, proportion\u201d) (English <i class=\"Latn mention\" lang=\"en\">mode</i>).\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive, often reflexive) To render fit, suitable, or correspondent; to adapt.\n\n",
+							"quote": [
+								{
+									"citation": "1712 June 29 (Gregorian calendar), [Joseph Addison; Richard Steele et al.], \u201cWEDNESDAY, June 18, 1712\u201d, in The Spectator, number 475; republished in Alexander Chalmers, editor, The Spectator; a New Edition,\u00a0[\u2026], New York, N.Y.: D[aniel] Appleton & Company, 1853, \u2192OCLC, page 15:",
+									"text": "IT is an old Ob\u017fervation, which has been made of Politicians who would rather ingratiate them\u017felves with their Sovereign, than promote his real Service, that they accommodate their Coun\u017fels to his Inclinations, and advi\u017fe him to \u017fuch Actions only as his Heart is naturally \u017fet upon.The spelling has been modernized."
+								}
+							],
+							"relative": {
+								"Synonyms": [
+									"adapt",
+									"conform",
+									"adjust",
+									"arrange",
+									"suit"
+								]
+							}
+						},
+						{
+							"definition": "(transitive) To cause to come to agreement; to bring about harmony; to reconcile.\n",
+							"quote": [],
+							"relative": {
+								"Synonym": [
+									"reconcile"
+								]
+							}
+						},
+						{
+							"definition": "(transitive) To provide housing for.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "To provide sufficient space for\n",
+							"quote": [
+								{
+									"citation": "2020 December 2, Paul Bigland, \u201cMy weirdest and wackiest Rover yet\u201d, in Rail, pages 67\u201368:",
+									"text": "My next stop is Oxford, which has also grown with the addition of new platforms to accommodate the Chiltern Railways service to London via Bicester - although, short sightedly, the planned electrification from Paddington was canned."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To provide with something desired, needed, or convenient.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To do a favor or service for; to oblige.\n",
+							"quote": [],
+							"relative": {
+								"Synonym": [
+									"oblige"
+								]
+							}
+						},
+						{
+							"definition": "(transitive) To show the correspondence of; to apply or make suit by analogy; to adapt or fit, as teachings to accidental circumstances, statements to facts, etc.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To give consideration to; to allow for.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To contain comfortably; to have space for.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, rare) To adapt oneself; to be conformable or adapted; become adjusted.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, of an eye) To change focal length in order to focus at a different distance.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(obsolete) Suitable; fit; adapted; as, means accommodate to end.\n",
+							"quote": [
+								{
+									"citation": "a. 1671, John Tillotson, Sermons Preach\u2019d Upon Several Occa\u017fions, London: A.M., page 181:",
+									"text": "God did not primarily intend to appoint this way of Wor\u017fhip, and to impo\u017fe it upon them as that which was mo\u017ft proper and agreeable to him\u202f; but that he conde\u017fcended to it, as mo\u017ft accommodate to their pre\u017fent \u017ftate and inclination."
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"UK",
+			"/\u0259\u02c8k\u0252m\u0259\u02ccde\u026at/"
+		],
+		[
+			"US",
+			"/\u0259\u02c8k\u0251m\u0259\u02ccde\u026at/"
+		]
+	]
+}

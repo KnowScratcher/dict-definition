@@ -1,0 +1,100 @@
+{
+	"text": "absence",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">absence</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">absence</i>, <i class=\"Latn mention\" lang=\"fro\">ausence</i>, from Latin <i class=\"Latn mention\" lang=\"la\">absentia</i>, from <i class=\"Latn mention\" lang=\"la\">abs\u0113ns</i> (\u201cabsent\u201d), present active participle of <i class=\"Latn mention\" lang=\"la\">absum</i> (\u201cI am away or absent\u201d), from <i class=\"Latn mention\" lang=\"la\">ab</i> (\u201cfrom, away from\u201d) + <i class=\"Latn mention\" lang=\"la\">sum</i> (\u201cI am\u201d).\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "A state of being away or withdrawn from a place or from companionship\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "The period of someone being away. [First attested around 1350 to 1470.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Philippians 2:12:",
+									"text": "Not as in my presence only, but now much more in my absence."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Failure to be present where one is expected, wanted, or needed; nonattendance; deficiency. [First attested around 1350 to 1470.][1]\n",
+							"quote": [
+								{
+									"citation": "2018 September 15, Barney Ronay, \u201cFinely tuned Liverpool are really getting into J\u00fcrgen Klopp\u2019s groove\u201d, in The Guardian\u200e[1]:",
+									"text": "Harry Kane was an absence in that first half. He touched the ball 11 times despite Spurs taking 62% of possession."
+								},
+								{
+									"citation": "2022 January 12, Nigel Harris, \u201cComment: Unhappy start to 2022\u201d, in RAIL, number 948, page 3:",
+									"text": "Then, in January, a creeping tsunami of train cancellations, triggered by major staff absences as a result of the aggressive transmissibility of Omicron, heaped further misery on rail users."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Lack; deficiency; non-existence. [First attested around 1350 to 1470.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1826, James Kent, Commentaries on American Law:",
+									"text": "in the absence of higher and more authoritative sanctions the ordinances of foreign states, the opinions of eminent statesmen, and the writings of distinguished jurists, are regarded as of great consideration on questions not settled by conventional law"
+								},
+								{
+									"citation": "1980, AA Book of British Villages, Drive Publications Ltd, page 150:",
+									"text": "The narrow streets that twist and turn through the compact heart of Dent are surfaced with cobbles which, in the absence of pavements, spread right across from doorstep to doorstep."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Inattention to things present; abstraction (of mind). [First attested in the early 18th century.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1711 June 9 (Gregorian calendar), [Joseph Addison; Richard Steele et al.], \u201cTUESDAY, May 29, 1711\u201d, in The Spectator, number 77; republished in Alexander Chalmers, editor, The Spectator; a New Edition,\u00a0[\u2026], volume I, New York, N.Y.: D[aniel] Appleton & Company, 1853, \u2192OCLC:",
+									"text": "Reflecting on the little absences and distractions of mankind.The spelling has been modernized."
+								},
+								{
+									"citation": "c. 1824-1829, Walter Landor, Imaginary Conversations:",
+									"text": "To conquer that abstraction which is called absence."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(medicine) Temporary loss or disruption of consciousness, with sudden onset and recovery, and common in epilepsy. [First attested in the mid 20th century.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(fencing) Lack of contact between blades.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"IPA",
+			"/\u02c8\u00e6bs\u0252ns/"
+		],
+		[
+			"IPA",
+			"/\u02c8\u00e6b.s(\u0259)n\u0329s/"
+		],
+		[
+			"UK",
+			"/\u02c8\u00e6b.s(\u0259)n\u0329s/"
+		],
+		[
+			"(General American)",
+			"/\u02c8\u00e6b.s(\u0259)n\u0329s/"
+		]
+	]
+}

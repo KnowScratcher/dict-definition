@@ -1,0 +1,55 @@
+{
+	"text": "abnormal",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From <i class=\"Latn mention\" lang=\"en\">ab-</i> +\u200e <i class=\"Latn mention\" lang=\"en\">normal</i>. First attested in 1835, replacing the earlier <i class=\"Latn mention\" lang=\"en\">anormal</i> and even earlier <i class=\"Latn mention\" lang=\"en\">abnormous</i>, from Latin <i class=\"Latn mention\" lang=\"la\">abnormis</i> (\u201cdeparting from normal\u201d), from <b>either</b> (<i class=\"Latn mention\" lang=\"la\">ab-</i> (\u201caway from\u201d) + <i class=\"Latn mention\" lang=\"la\">norma</i> (\u201crule, norm\u201d)), <b>or</b> Ancient Greek <i class=\"Polyt mention\" lang=\"grc\">\u1f00\u03bd\u03ce\u03bc\u03b1\u03bb\u03bf\u03c2</i> (an\u1e53malos).\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "Not conforming to rule or system; deviating from the usual or normal type. [First attested around the mid 19th century.][4]\n",
+							"quote": [
+								{
+									"citation": "1899, Arthur Conan Doyle, chapter 6, in A Duet:",
+									"text": "And then after an abnormal meal, which was either a very late breakfast or a very early lunch, they drove on to Victoria Station."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Of or pertaining to that which is irregular, in particular, behaviour that deviates from norms of social propriety or accepted standards of mental health. [First attested around the early 20th century.][4]\n",
+							"quote": [
+								{
+									"citation": "1904, Jack London, chapter 23, in The Sea-Wolf (Macmillan\u2019s Standard Library), New York, N.Y.: Grosset & Dunlap, \u2192OCLC:",
+									"text": "Furuseth was right; I was abnormal, an \"emotionless monster,\" a strange bookish creature, capable of pleasuring in sensations only of the mind."
+								},
+								{
+									"citation": "1936, Rollo Ahmed, The Black Art, London: Long, page 161:",
+									"text": "Many of the so-called rites of these secret societies were so patently ridiculous, that it is quite obvious that they were merely an excuse for men and women to indulge in sex-play and lustful gratification, frequently of an abnormal kind."
+								}
+							],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "A person or object that is not normal.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u02c8\u00e6b\u02ccn\u0254\u0279.ml\u0329/"
+		]
+	]
+}

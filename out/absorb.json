@@ -1,0 +1,127 @@
+{
+	"text": "absorb",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle French <i class=\"Latn mention\" lang=\"frm\">absorber</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">assorbir</i>, from Latin <i class=\"Latn mention\" lang=\"la\">absorbe\u014d</i> (\u201cswallow up\u201d), from <i class=\"Latn mention\" lang=\"la\">ab-</i> (\u201cfrom\u201d) +\u200e <i class=\"Latn mention\" lang=\"la\">sorbe\u014d</i> (\u201csuck in, swallow\u201d), ultimately from Proto-Indo-European <i class=\"Latn mention\" lang=\"ine-pro\">*sreb\u02b0-</i> (\u201cto sip\u201d). Compare French <i class=\"Latn mention\" lang=\"fr\">absorber</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up. [first attested c. 1350 to 1470.]\n",
+							"quote": [
+								{
+									"citation": "1782, William Cowper, On Observing some Names of Little Note:",
+									"text": "Dark oblivion soon absorbs them all."
+								},
+								{
+									"citation": "1819 July 31, Geoffrey Crayon [pseudonym; Washington Irving], \u201cRural Life in England\u201d, in The Sketch Book of Geoffrey Crayon, Gent., number II, New York, N.Y.:  [\u2026]  C[ornelius] S. Van Winkle,\u00a0[\u2026], \u2192OCLC, page 124:",
+									"text": "In some countries, the large cities absorb the wealth and fashion of the nation; they are the only fixed abodes of elegant and intelligent society, and the country is inhabited almost entirely by boorish peasantry."
+								},
+								{
+									"citation": "2023 March 8, Howard Johnston, \u201cWas Marples the real railway wrecker?\u201d, in RAIL, number 978, page 51:",
+									"text": "Wages absorbed 80% of the total revenue (which was inescapable), and they were rising at almost twice the rate of fares, which were pegged by law."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, obsolete) To engulf, as in water; to swallow up. [Attested from the late 15th century until the late 18th century.]\n",
+							"quote": [
+								{
+									"citation": "1684-1690, Thomas Burnet, The Sacred Theory of the Earth:",
+									"text": "to be absorpt, or swallowed up, in a lake of fire and brimstone."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To suck up; to drink in; to imbibe, like a sponge or as the lacteals of the body; to chemically take in. [first attested in the early 17th century.]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To be absorbed, or sucked in; to sink in.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, physics) in receiving a physical impact or vibration without recoil.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, physics) in receiving sound energy without repercussion or echo.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, physics) taking in radiant energy and converting it to a different form of energy, like heat.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, physics, chemistry) To take in energy and convert it. [first attested in the early 18th century.]\n\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To engross or engage wholly; to occupy fully. [first attested in the late 18th century.]\n",
+							"quote": [
+								{
+									"citation": "1915 December 4 \u2013 1916 January 8, Edgar Rice Burroughs, chapter VIII, in The Son of Tarzan, Chicago, Ill.: A[lexander] C[aldwell] McClurg & Co., published March 1917, \u2192OCLC, page 103:",
+									"text": "Geeka was cooking dinner. As the little girl played she prattled continuously to her companion, propped in a sitting position with a couple of twigs. She was totally absorbed in the domestic duties of Geeka\u00a0\u2013 so much so that she did not note the gentle swaying of the branches of the tree above her as they bent to the body of the creature that had entered them stealthily from the jungle."
+								},
+								{
+									"citation": "1904, Kazimierz Waliszewski, translated by Lady Mary Loyd, Ivan the Terrible, Part 2 Chapter 3:",
+									"text": "Livonian affairs held him tight, and were to absorb him for many a year."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To occupy or consume time. [first attested in the mid 19th century.]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To assimilate mentally. [first attested in the late 19th century.]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, business) To assume or pay for as part of a commercial transaction.\n",
+							"quote": [
+								{
+									"citation": "2006, Gunnar Almgren, Health Care Politics, Policy, and Services: A Social Justice Analysis:",
+									"text": "Among the most debatable is the contention that the profit margins of small employers are insufficient to absorb the costs of health insurance"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To defray the costs.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To accept or purchase in quantity.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"General American",
+			"/\u00e6b\u02c8s\u0254\u0279b/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u0259b\u02c8z\u0254\u02d0b/"
+		]
+	]
+}

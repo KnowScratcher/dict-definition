@@ -1,0 +1,61 @@
+{
+	"text": "accountant",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English, from Middle French <i class=\"Latn mention\" lang=\"frm\">acuntant</i>. Equivalent to <i class=\"Latn mention\" lang=\"en\">account</i> +\u200e <i class=\"Latn mention\" lang=\"en\">-ant</i>. First attested in the mid 15th century.\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "One who renders account; one accountable.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "A reckoner, or someone who maintains financial matters for a person(s).",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(accounting) One who is skilled in, keeps, or adjusts, accounts; an officer in a public office, who has charge of the accounts.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(accounting) One whose profession includes organizing, maintaining and auditing the records of another. The records are usually, but not always, financial records.\n",
+							"quote": [
+								{
+									"citation": "1994, 2:40 from the start, in Juicy\u200e[1] (Hip Hop), spoken by The Notorious B.I.G.:",
+									"text": "Super Nintendo, Sega GenesisWhen I was dead broke, man, I couldn't picture this50-inch screen, money-green leather sofaGot two rides, a limousine with a chauffeurPhone bill about two G's flatNo need to worry, my accountant handles thatAnd my whole crew is loungin'Celebratin' every day, no more public housin'"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(euphemistic) A sex worker, particularly one who does not want to be publicized as one",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(obsolete, with to) Accountable. [15th\u201319th c.]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u0259\u02c8ka\u028an.t\u0259nt/"
+		]
+	]
+}

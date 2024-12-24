@@ -1,0 +1,85 @@
+{
+	"text": "aboard",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">abord</i>, from <i class=\"Latn mention\" lang=\"enm\">a-</i> (\u201con\u201d) + <i class=\"Latn mention\" lang=\"enm\">bord</i> (\u201cboard, side of a ship\u201d); equivalent to <i class=\"Latn mention\" lang=\"en\">a-</i> +\u200e <i class=\"Latn mention\" lang=\"en\">board</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Adverb",
+					"definitions": [
+						{
+							"definition": "On board; into or within a ship or boat; hence, into or within a railway car. [from ca. 1350\u20141470][1]\n\n",
+							"quote": [
+								{
+									"citation": "2020 December 2, Paul Bigland, \u201cMy weirdest and wackiest Rover yet\u201d, in Rail, page 68:",
+									"text": "As the 1857 to Manchester Piccadilly rolls in, I scan the windows and realise there are plenty of spare seats, so I hop aboard. The train is a '221'+'220' combo to allow for social distancing - a luxury on an XC train as normally you're playing sardines, so I make the most of it."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "On or onto a horse, a camel, etc. [from late 19th c.][1]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(baseball) On base. [from mid-20th c.][1]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Into a team, group, or company. [from mid-20th c.][1]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(nautical) Alongside. [from ca. 1350\u20141470][1]\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Preposition",
+					"definitions": [
+						{
+							"definition": "On board of; onto or into a ship, boat, train, plane. [from ca. 1350\u20141470][1]\n\n",
+							"quote": [
+								{
+									"citation": "2012 March, William E. Carter, Merri Sue Carter, \u201cThe British Longitude Act Reconsidered\u201d, in American Scientist\u200e[1], volume 100, number 2, page 87:",
+									"text": "Conditions were horrendous aboard most British naval vessels at the time. Scurvy and other diseases ran rampant, killing more seamen each year than all other causes combined, including combat."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Onto a horse. [from mid-20th c.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(obsolete) Across; athwart; alongside. [early 16th\u2013late 17th c.][1]\n",
+							"quote": [
+								{
+									"citation": "1591, Edmund Spenser, Virgil's Gnat:",
+									"text": "Nor iron bands aboard The Pontic Sea by their huge navy cast."
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u0259\u02c8b\u0254\u0279d/"
+		],
+		[
+			"UK",
+			"/\u0259\u02c8b\u0254\u02d0d/"
+		]
+	]
+}

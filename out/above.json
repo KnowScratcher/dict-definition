@@ -1,0 +1,231 @@
+{
+	"text": "above",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">above</i>, <i class=\"Latn mention\" lang=\"enm\">aboven</i>, <i class=\"Latn mention\" lang=\"enm\">abuven</i>, from Old English <i class=\"Latn mention\" lang=\"ang\">\u0101bufan</i>, <i class=\"Latn mention\" lang=\"ang\">onbufan</i>, from <i class=\"Latn mention\" lang=\"ang\">on</i> (\u201con\u201d) + <i class=\"Latn mention\" lang=\"ang\">bufan</i> (\u201cover\u201d), (akin to Icelandic <i class=\"Latn mention\" lang=\"is\">ofan</i> (\u201cfrom above\u201d), Middle Dutch <i class=\"Latn mention\" lang=\"dum\">b\u014dven</i>, Old Frisian <i class=\"Latn mention\" lang=\"ofs\">bova</i>, Middle High German <i class=\"Latn mention\" lang=\"gmh\">bobene</i>) from <i class=\"Latn mention\" lang=\"ang\">b\u012b</i> (\u201cby\u201d) + <i class=\"Latn mention\" lang=\"ang\">ufan</i> (\u201cover\u201d); also cognate with Danish <i class=\"Latn mention\" lang=\"da\">oven</i>, Dutch <i class=\"Latn mention\" lang=\"nl\">boven</i>, German <i class=\"Latn mention\" lang=\"de\">oben</i>, Swedish <i class=\"Latn mention\" lang=\"sv\">ovan</i>, Old Saxon <i class=\"Latn mention\" lang=\"osx\">o\u0180an</i>, Old High German <i class=\"Latn mention\" lang=\"goh\">obana</i>.\n</p><p>The preposition, adjective and the noun derive from the adverb.\n</p>",
+			"pos": [
+				{
+					"pos": "Preposition",
+					"definitions": [
+						{
+							"definition": "Physically over; on top of; worn on top of, said of clothing. [first attested before 1150.]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "In or to a higher place; higher than; on or over the upper surface. [first attested  before 1150]\n\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Genesis 1:20:",
+									"text": "And God said, Let the waters bring foorth aboundantly the mouing creature that hath life, and foule that may flie aboue the earth in the open firmament of heauen."
+								},
+								{
+									"citation": "1897 December (indicated as 1898), Winston Churchill, chapter V, in The Celebrity: An Episode, New York, N.Y.: The Macmillan Company; London: Macmillan & Co., Ltd., \u2192OCLC:",
+									"text": "Then came a maid with hand-bag and shawls, and after her a tall young lady. She stood for a moment holding her skirt above the grimy steps,  [\u2026]  and the light of the reflector fell full upon her."
+								},
+								{
+									"citation": "2013 May-June, William E. Conner, \u201cAn Acoustic Arms Race\u201d, in American Scientist, volume 101, number 3, pages 206\u20137:",
+									"text": "Earless ghost swift moths become \u201cinvisible\u201d to echolocating bats by forming mating clusters close (less than half a meter) above vegetation and effectively blending into the clutter of echoes that the bat receives from the leaves and stems around them."
+								}
+							],
+							"relative": {
+								"Antonyms": [
+									"below",
+									"beneath"
+								]
+							}
+						},
+						{
+							"definition": "Farther north than. [first attested before 1150]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Rising; appearing out of reach height-wise. [first attested around 1150\u20131350]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(figuratively) Higher than; superior to in any respect; surpassing; higher in measure, degree, volume, or pitch, etc. than; out of reach; not exposed to; not likely to be affected by; incapable of negative actions or thoughts. [first attested around 1150\u20131350]\n\n",
+							"quote": [
+								{
+									"citation": "1594, Christopher Marlowe, Edward II, act I, scene i:",
+									"text": "Thy worth, sweet friend, is far above my gifts,"
+								},
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Acts 26:13:",
+									"text": "At midday, O king, I saw in the way a light from heaven, above the brightnes of the Sunne, shining round about mee, and them which iourneyed with me."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Higher in rank, status, or position. [first attested around 1150\u20131350]\n\n",
+							"quote": [
+								{
+									"citation": "1791, John Walker, A Critical Pronouncing Dictionary [\u2026] \u200e[1], London: Sold by G. G. J. and J. Robin\u017fon, Paterno\u017fter Row; and T. Cadell, in the Strand, \u2192OCLC, page 557:",
+									"text": "\u261e This word [wrap] is often pronounced wrop, rhyming with top, even by \u017fpeakers much above the vulgar."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(Scotland) In addition to; besides. [first attested around 1150\u20131350]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Surpassing in number or quantity; more than. [first attested around 1350\u20131470]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "In preference to.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Too proud to stoop to; averse to; disinclined towards;\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Beyond; on the other side.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(theater) Upstage of.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adverb",
+					"definitions": [
+						{
+							"definition": "Directly overhead; vertically on top of. [first attested before 1150.]\n",
+							"quote": [
+								{
+									"citation": "2013 May 11, \u201cThe climate of Tibet: Pole-land\u201d, in The Economist\u200e[2], volume 407, number 8835, page 80:",
+									"text": "Of all the transitions brought about on the Earth\u2019s surface by temperature change, the melting of ice into water is the starkest. It is binary. And for the land beneath, the air above and the life around, it changes everything."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Higher in the same page; earlier in the order as far as writing products go. [first attested before 1150.]\n",
+							"quote": [
+								{
+									"citation": "1913, Ambrose Bierce, Present at a Hanging and Other Ghost Stories:",
+									"text": "Nobody has lived in it since the summer of 1879, and it is fast going to pieces. For some three years before the date mentioned above, it was occupied by the family of Charles May"
+								},
+								{
+									"citation": "1905, Emanuel Swedenborg, chapter 19, in Heaven and Hell:",
+									"text": "That angels are men in the most complete form, and enjoy every sense, may be seen above (n. 73-77); and that the light in heaven is far brighter than the light in the world (n. 126-132)."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Into or from heaven; in the sky. [first attested around 1150\u20131350]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "In a higher place; upstairs; farther upstream. [first attested around 1150\u20131350]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Higher in rank, power, or position. [first attested around 1150\u20131350]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(archaic) In addition. [first attested around 1150\u20131350]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "More in number. [first attested around 1350\u20131470]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Above zero; above freezing. [first attested in the mid 20th century.]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(biology) On the upper half or the dorsal surface of an animal.\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "Of heaven; heavenly. [first attested around (1150 to 1350).]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(by ellipsis) Being located higher on the same page or on a preceding page. [first attested in the mid 18th century.]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "Heaven. [first attested around 1150\u20131350]\n",
+							"quote": [
+								{
+									"citation": "1998, \u201cTwinz\u201d, in Capital Punishment, performed by Big Pun and Fat Joe:",
+									"text": "A brother from another mother, sent from the above."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Something, especially a person's name in legal documents, that appears higher on the same page or on a preceding page.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Higher authority.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(archaic) betterment, raised status or condition.\n",
+							"quote": [
+								{
+									"citation": "1896, William Morris, The Well at the World's End:",
+									"text": "Withal they saw of him that he had no doubt but that they should come to their above on the morrow,"
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"General American",
+			"/\u0259\u02c8b\u028cv/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u0259\u02c8b\u028cv/"
+		]
+	]
+}

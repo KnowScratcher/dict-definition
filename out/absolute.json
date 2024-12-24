@@ -1,0 +1,308 @@
+{
+	"text": "absolute",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>First attested around 1380. From Middle English <i class=\"Latn mention\" lang=\"enm\">absolut</i>, from Middle French <i class=\"Latn mention\" lang=\"frm\">absolut</i>, from Latin <i class=\"Latn mention\" lang=\"la\">absol\u016btus</i> (\u201cunconditional; unfettered; completed\u201d), perfect passive participle of <i class=\"Latn mention\" lang=\"la\">absolv\u014d</i> (\u201cloosen, set free, complete\u201d), from <i class=\"Latn mention\" lang=\"la\">ab</i> (\u201caway\u201d) + <i class=\"Latn mention\" lang=\"la\">solvo</i> (\u201cto loose\u201d). Influenced in part by Old French <i class=\"Latn mention\" lang=\"fro\">absolu</i>. Compare <i class=\"Latn mention\" lang=\"en\">absolve</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "Characteristic of an absolutist ruler: domineering, peremptory. [first attested in the mid 1500s][2]\n",
+							"quote": [
+								{
+									"citation": "1856, Elizabeth Barrett Browning, Aurora Leigh:",
+									"text": "The peddler stopped, and tapped her on the head, / With absolute forefinger, brown and ringed."
+								},
+								{
+									"citation": "1962, Hannah Arendt, On Revolution, published 1990, page 155:",
+									"text": "[\u2026]  the more absolute the ruler, the more absolute the revolution will be which replaces him."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Unrestricted by laws, a constitution, or parliamentary or judicial or other checks; (legally) unlimited in power, especially if despotic. [first attested in the late 1400s][2]\n\n",
+							"quote": [
+								{
+									"citation": "1846, George Gillespie, The Presbyterian's Armoury:",
+									"text": "An absolute monarch is free from all forcible restraint, and so far as he is absolute[,] from all legal restraints of positive laws."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Free of restrictions, limitations, qualifications or conditions; unconditional. [first attested in the late 1400s][2]\n\n",
+							"quote": [
+								{
+									"citation": "2005, Names, volume 53, page 238:",
+									"text": "While Americans enjoy an almost absolute freedom to name their children whatever they please, in Germany the State (as public guardian of the good of the child) restricts parents [...]"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Free from imperfection, perfect, complete; especially, perfectly embodying a quality in its essential characteristics or to its highest degree. [first attested around 1400][2]\n\n",
+							"quote": [
+								{
+									"citation": "1667, John Milton, \u201cBook VIII\u201d, in Paradise Lost.\u00a0[\u2026], London:  [\u2026]  [Samuel Simmons], and are to be sold by Peter Parker\u00a0[\u2026]; [a]nd by Robert Boulter\u00a0[\u2026]; [a]nd Matthias Walker,\u00a0[\u2026], \u2192OCLC; republished as Paradise Lost in Ten Books:\u00a0[\u2026], London: Basil Montagu Pickering\u00a0[\u2026], 1873, \u2192OCLC:",
+									"text": "So absolute she seems, / And in herself complete."
+								},
+								{
+									"citation": "1599, William Shakespeare, Henry V:",
+									"text": "Indeed, my lord, it is a most absolute and excellent horse."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Pure, free from mixture or adulteration; unmixed. [first attested in the mid 1500s][2]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Complete, utter, outright; unmitigated, not qualified or diminished in any way. [first attested in the late 1500s][2]\n\n",
+							"quote": [
+								{
+									"citation": "2008, Household Economy Approach, \u2192ISBN, page 3:",
+									"text": "The growth and acceptance of this idea followed Amartya Sen's theory of exchange entitlements, which suggested that famines occur not from an absolute lack of food but from people's inability to obtain access to that food."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(very occasionally postpositive) Positive, certain; unquestionable; not in doubt. [first attested in the early 1600s][2]\n",
+							"quote": [
+								{
+									"citation": "1862, The Solicitors' Journal and Reporter, volume 6, page 365:",
+									"text": "Yet if the register is not to be absolute evidence of proprietorship, it is clear that some investigation of title would still be necessary."
+								},
+								{
+									"citation": "1913, International Record of Medicine and General Practice Clinics:",
+									"text": "[...] and in the absence of other signs, or when these latter are inconclusive, it is extremely useful. But it is not, under any circumstances, absolute evidence of the syphilitic nature of a given symptom or set of symptoms."
+								},
+								{
+									"citation": "2021, HM Land Registry Practice Guide 26:",
+									"text": "Unless the determined lease to which the easements relate has been registered with title absolute and the easements have been entered without qualification in the register for that title, evidence must be lodged to prove [...]"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(archaic) Certain; free from doubt or uncertainty (e.g. a person, opinion or prediction). [first attested in the early 1600s][2]\n",
+							"quote": [
+								{
+									"citation": "1611 April (first recorded performance), William Shakespeare, \u201cThe Tragedie of Cymbeline\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act IV, scene ii]:",
+									"text": "I am absolute \u2019twas very Cloten."
+								},
+								{
+									"citation": "1856, Elizabeth Barrett Browning, \u201c(please specify either |book=1 to 9 or the page)\u201d, in Aurora Leigh, London: Chapman and Hall,\u00a0[\u2026], published 1857, \u2192OCLC:",
+									"text": "The colour of my hair\u2014he cannot tell,  Or answers \"dark,\" at random,\u2014while, be sure,  He's absolute on the figure, live or ten,  Of my last subscription."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(especially philosophy) Fundamental, ultimate, intrinsic; not relative; independent of references or relations to other things or standards. [first attested in the late 1700s]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Having reference to or derived in the simplest manner from the fundamental units of mass, time, and length.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Relating to the absolute temperature scale (based on absolute zero); kelvin.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(physics) Independent of arbitrary units of measurement, standards, or properties; not comparative or relative.\n\n\n",
+							"quote": [
+								{
+									"citation": "1903, Ice and Refrigeration, volume 24, page 49:",
+									"text": "His experiments led him to infer that the boiling point of the substance is probably below 9 degrees absolute."
+								},
+								{
+									"citation": "2015, Raymond A. Serway, John W. Jewett, Physics for Scientists and Engineers, \u2192ISBN:",
+									"text": "This new absolute temperature scale (also called the Kelvin scale) employs the SI unit of absolute temperature, the kelvin,  [\u2026]"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(of a case form) Syntactically connected to the rest of the sentence in an atypical manner, or not relating to or depending on it, like in the nominative absolute or genitive absolute, accusative absolute or ablative absolute. [first attested around 1350 to 1470]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(of an adjective or possessive pronoun) Lacking a modified substantive, like \"hungry\" in \"feed the hungry\". [first attested around 1350 to 1470]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(of a comparative or superlative) Expressing a relative term without a definite comparison, like \"older\" in \"an older person should be treated with respect\". [first attested around 1350 to 1470]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(of an adjective form) Positive; not graded (not comparative or superlative).\n",
+							"quote": [
+								{
+									"citation": "1991, English Grammar, 3rd edition:",
+									"text": "Even when the absolute form of an adverb ends in -ly, the comparative and superlative are identical with the corresponding forms of the adjective: badly, worse, worst."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(of a usually transitive verb) Having no direct object, like \"kill\" in \"if looks could kill\". [first attested around 1350 to 1470][2]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(of Celtic languages) Being or pertaining to an inflected verb that is not preceded by any number of particles or compounded with a preverb.\n",
+							"quote": [],
+							"relative": {
+								"Antonym": [
+									"conjunct"
+								]
+							}
+						},
+						{
+							"definition": "(grammar) Not immediately dependent on the other parts of the sentence; not in a syntactical relation with other parts of a text, or qualifying the text as a whole rather than any single word in it, like \"it being over\" in \"it being over, she left\". [first attested around 1350 to 1470]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(mathematics) As measured using an absolute value.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(mathematics) Indicating an expression that is true for all real numbers, or of all values of the variable; unconditional.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(education) Pertaining to a grading system based on the knowledge of the individual and not on the comparative knowledge of the group of students.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(art, music, dance) Independent of (references to) other arts; expressing things (beauty, ideas, etc) only in one art.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(law, postpositive, formal) Indicating that a tenure or estate in land is not conditional or liable to terminate on (strictly) any occurrence or (sometimes contextually) certain kinds of occurrence.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(obsolete) Absolved; free. [attested from the mid 1300s until the mid 1600s][2]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "That which exists (or has a certain property, nature, size, etc) independent of references to other standards or external conditions; that which is universally valid; that which is not relative, conditional, qualified or mitigated. [First attested in the mid 19th century.][2]\n\n",
+							"quote": [
+								{
+									"citation": "1944, United States House Committee on Foreign Affairs, World Freedom of Press and Radio, Editorials Submitted...: Senate Concurrent Resolution 50, Senate Concurrent Resolution 52, Senate Concurrent Resolution 53, House Concurrent Resolution 97, page 30:",
+									"text": "There is a well-known generalization that human rights come before property rights.  [\u2026]  Unqualified absolutes like these do not contain the truth as tested by human experience. What we do say is that human rights and property rights are related to one another, are intertwined with one another, work with and play upon one another."
+								},
+								{
+									"citation": "1987, Harold Bloom, Leo Tolstoy's Anna Karenina, Chelsea House Pub:",
+									"text": "But if the psychoanalytic mood seems gloomy or pretentious, one may merely think of Anna as a person who comes to deal in absolutes: unconditional demands, total fears, extremities of power and subservience,  [\u2026]"
+								},
+								{
+									"citation": "2002, Jordan Zarren, MSW, DAHB, Jordan I. Zarren, Bruce N. Eimer, Brief Cognitive Hypnosis: Facilitating the Change of Dysfunctional Behavior, Springer Publishing Company, \u2192ISBN, page 97:",
+									"text": "Notice the use of unconditional absolutes in each of these statements. They are the words always, never, and forever. The illusion of absolutes is the ultimate pathological double bind. Yet the only absolute is that there are no absolutes."
+								},
+								{
+									"citation": "2010, Joshua K. Hildebrandt, The Knowledge of Good and Evil: Who Decides What Is Morally Right and Wrong?, AuthorHouse, \u2192ISBN, page 9:",
+									"text": "This is important to understand, for when we see that the knowledge of good and evil is an absolute, we realize we can have absolutely no say in what it is or is not. Pause for a moment and consider that. Mathematicians work in absolutes."
+								},
+								{
+									"citation": "2010, Klaus Brinkmann, Idealism Without Limits: Hegel and the Problem of Objectivity, Springer Science & Business Media, \u2192ISBN, page 265:",
+									"text": "The reason is that we are confronted here with a genuine moral dilemma, i.e. a clash of two moral absolutes \u2013 the unconditional right to protection of the fetus from the point of fertilization; and the unconditional protection of the right to choose of the pregnant woman."
+								},
+								{
+									"citation": "2012, P. Katsoyannis, The Chemistry of Polypeptides: Essays in Honor of Dr. Leonidas Zervas, Springer Science & Business Media, \u2192ISBN, page 132:",
+									"text": "Often one is dealing not with absolutes (complete stability) but with relative differences in rate (see below)."
+								},
+								{
+									"citation": "2016, I. Unah, The Supreme Court in American Politics, Springer, \u2192ISBN, page 187:",
+									"text": "When discussing these concepts, it is unreasonable to expect absolutes. Complete impact, complete compliance with Court decisions, and complete implementation are a myth even for the most admired Supreme Court decisions."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(geometry) In a plane, the two imaginary circular points at infinity; in space of three dimensions, the imaginary circle at infinity.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(philosophy, usually capitalized, usually preceded by \"the\") A realm which exists without reference to anything else; that which can be imagined purely by itself; absolute ego.\n",
+							"quote": [
+								{
+									"citation": "1983, Lawrence Durrell, Sebastian (Avignon Quintet), Faber & Faber, published 2004, page 1039:",
+									"text": "Withdrawn as a Buddha he sat, watching the alien world from his perch in the absolute."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(philosophy, usually capitalized, usually preceded by \"the\") The whole of reality; the totality to which everything is reduced; the unity of spirit and nature; God.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(chemistry) A concentrated natural flower oil, used for perfumes; an alcoholic extract of a concrete.\n",
+							"quote": [
+								{
+									"citation": "1948, Ernest Guenther, The Essential Oils: History, origin in plants, production, analysis:",
+									"text": "Complete concentration in a vacuum still at low temperature results in a concentrated flower oil, free from alcohol, the so-called absolute of enfleurage. The crude absolutes of enfleurage are usually of dark color and, because of their fat content,\u00a0 [\u2026]"
+								},
+								{
+									"citation": "2019, William A. Poucher, Perfumes, Cosmetics and Soaps: The Production, Manufacture and Application of Perfumes: Volume 2, \u2192ISBN, page 57:",
+									"text": "The main difference between these and those of indifferent quality is that the former contain flower absolutes in fairly large proportion and the latter either an insignificant quantity or\u00a0 [\u2026]"
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u02c8\u00e6b.s\u0259\u02cclut/"
+		],
+		[
+			"Standard Southern British",
+			"/\u02c8ap.s\u0259.l\u0289wt/"
+		],
+		[
+			"Canada",
+			"/\u02c8abs\u0259(\u02cc)l(j)u\u02d0t/"
+		],
+		[
+			"dialectal",
+			"/abs\u0259\u02c8l\u026a\u028a\u032ft/"
+		],
+		[
+			"UK",
+			"/\u02c8\u00e6b.s\u0259.lu\u02d0t/"
+		]
+	]
+}

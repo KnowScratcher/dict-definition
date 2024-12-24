@@ -1,0 +1,157 @@
+{
+	"text": "access",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">accesse</i>, <i class=\"Latn mention\" lang=\"enm\">acces</i>, borrowed from Middle French <i class=\"Latn mention\" lang=\"frm\">acces</i> (\u201cattack, onslaught\u201d) or from its source Latin <i class=\"Latn mention\" lang=\"la\">accessus</i>, perfect passive participle of <i class=\"Latn mention\" lang=\"la\">acc\u0113d\u014d</i> (\u201capproach; accede\u201d), from <i class=\"Latn mention\" lang=\"la\">ad</i> (\u201cto, toward, at\u201d) + <i class=\"Latn mention\" lang=\"la\">c\u0113d\u014d</i> (\u201cmove, yield\u201d). Doublet of <i class=\"Latn mention\" lang=\"en\">accessus</i>. First attested in the early 14th century. The sense \"entrance\" was first attested about 1380.\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "(uncountable) A way or means of approaching or entering; an entrance; a passage.\n\n",
+							"quote": [
+								{
+									"citation": "1667, John Milton, \u201c(please specify the page number)\u201d, in Paradise Lost.\u00a0[\u2026], London:  [\u2026]  [Samuel Simmons], and are to be sold by Peter Parker\u00a0[\u2026]; [a]nd by Robert Boulter\u00a0[\u2026]; [a]nd Matthias Walker,\u00a0[\u2026], \u2192OCLC; republished as Paradise Lost in Ten Books:\u00a0[\u2026], London: Basil Montagu Pickering\u00a0[\u2026], 1873, \u2192OCLC:",
+									"text": "All access was thronged."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(uncountable) The act of approaching or entering; an advance.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(uncountable) The right or ability of approaching or entering; admittance; admission; accessibility.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(uncountable) The quality of being easy to approach or enter.\n\n",
+							"quote": [
+								{
+									"citation": "c. 1599\u20131602 (date written), William Shakespeare, \u201cThe Tragedie of Hamlet, Prince of Denmarke\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act II, scene i]:",
+									"text": "I did repel his fetters, and denied His access to me."
+								},
+								{
+									"citation": "2011 September 20, Graeme Paton, \u201cUniversity access plan 'will fail', says Russell Group\u201d, in Telegraph\u200e[1]:",
+									"text": "Coalition plans to widen access to university will fail to get to the 'root cause' of the problem, according to the Russell Group."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(uncountable) Admission to sexual intercourse.\n",
+							"quote": [
+								{
+									"citation": "1765\u20131769, William Blackstone, Commentaries on the Laws of England, (please specify |book=I to IV), Oxford, Oxfordshire:  [\u2026]  Clarendon Press, \u2192OCLC:",
+									"text": "During coverture, access of the husband shall be presumed, unless the contrary be shown."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(archaic, countable) An increase by addition; accession\n\n",
+							"quote": [
+								{
+									"citation": "1667, John Milton, \u201c(please specify the page number)\u201d, in Paradise Lost.\u00a0[\u2026], London:  [\u2026]  [Samuel Simmons], and are to be sold by Peter Parker\u00a0[\u2026]; [a]nd by Robert Boulter\u00a0[\u2026]; [a]nd Matthias Walker,\u00a0[\u2026], \u2192OCLC; republished as Paradise Lost in Ten Books:\u00a0[\u2026], London: Basil Montagu Pickering\u00a0[\u2026], 1873, \u2192OCLC:",
+									"text": "I, from the influence of thy looks, receive access in every virtue."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(countable) An onset, attack, or fit of disease; an ague fit.\n",
+							"quote": [
+								{
+									"citation": "a. 1716 (date written), [Gilbert] Burnet, edited by [Gilbert Burnet Jr.], Bishop Burnet\u2019s History of His Own Time.\u00a0[\u2026], volume (please specify |volume=I or II), London:  [\u2026]  Thomas Ward\u00a0[\u2026], published 1724, \u2192OCLC:",
+									"text": "The first access looked like an apoplexy."
+								},
+								{
+									"citation": "1953, Samuel Beckett, Watt, 1st American edition, New York, N.Y.: Grove Press, published 1959, \u2192OCLC:",
+									"text": "Then he resumed the pose, the decent pose, from which the sudden access of his old trouble had startled him, his hands on his knees,  [\u2026]"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(countable) An outburst of an emotion; a paroxysm; a fit of passion.\n",
+							"quote": [
+								{
+									"citation": "1917, Frank L. Packard, chapter 15, in The Adventures of Jimmie Dale:",
+									"text": "The Magpie's flashlight, as he shifted it from his right hand to his left and wrenched out his revolver, had fallen upon two men crouched close against the wall by the library door\u2014and he screamed out in an access of fury. \"De double cross! A plant! De bulls! You damned snitch, Larry!\" screamed out the Magpie\u2014and fired."
+								},
+								{
+									"citation": "1946, Arnold J. Toynbee, A Study of History (Abridgement of Volumes I-VI by D.C. Somervell)\n",
+									"text": "It appears that, about the middle of the fourth century of the Christian Era, the Germans in the Roman service started the new practice of retaining their native names; and this change of etiquette, which seems to have been abrupt, points to a sudden access of self-confidence and self-assurance in the souls of the barbarian personnel which had previously been content to 'go Roman' without reservations."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(uncountable, law) The right of a noncustodial parent to visit their child.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(countable, computing) The process of locating data in memory.\n",
+							"quote": [
+								{
+									"citation": "2011, Victor Pankratius, Ali-Reza Adl-Tabatabai, Walter Tichy, Fundamentals of Multicore Software Development, page 74:",
+									"text": "Operations on C++ volatiles do put the compiler on notice that the object may be modified asynchronously, and hence are generally safer to use than ordinary variable accesses."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(uncountable, networking) Connection to or communication with a computer program or to the Internet.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(uncountable, Scotland) Complicity or assent.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		},
+		{
+			"etymologyHTML": "<p>access (<i>third-person singular simple present</i> <b class=\"Latn form-of lang-en s-verb-form-form-of\" lang=\"en\">accesses</b>, <i>present participle</i> <b class=\"Latn form-of lang-en ing-form-form-of\" lang=\"en\">accessing</b>, <i>simple past and past participle</i> <b class=\"Latn form-of lang-en ed-form-form-of\" lang=\"en\">accessed</b>)\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To gain or obtain access to.\n",
+							"quote": [
+								{
+									"citation": "2023 December 13, 'Industry Insider', \u201cDelivering a robust timetable\u201d, in RAIL, number 998, page 68:",
+									"text": "The value of having in-house medical expertise is that staff with poor attendance records who have difficulty accessing NHS services can receive support from their employer, to help reduce absenteeism brought about by medical conditions."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, computing) To have access to (data).\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"General American",
+			"/\u02c8\u00e6k\u02ccs\u025bs/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u02c8\u00e6ks\u025bs/"
+		]
+	]
+}

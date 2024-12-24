@@ -1,0 +1,71 @@
+{
+	"text": "acceptable",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">acceptable</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">acceptable</i>, from Late Latin <i class=\"Latn mention\" lang=\"la\">accept\u0101bilis</i> (\u201cworthy of acceptance\u201d).\n</p><p>Morphologically <i class=\"Latn mention\" lang=\"en\">accept</i> +\u200e <i class=\"Latn mention\" lang=\"en\">-able</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "Worthy, decent, sure of being accepted or received with at least moderate pleasure.\n\n",
+							"quote": [
+								{
+									"citation": "1883, United States. War Department, Annual Reports of the War Department, volume 1, page 128:",
+									"text": "I think if post commanders of the unchaplained posts could employ acceptable clergymen  [\u2026]  then the needs might be met."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Barely worthy, less than excellent; passable.\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "Someone or something that is acceptable.\n\n",
+							"quote": [
+								{
+									"citation": "1922, Madhus\u016bdan Kaul, \u201cIntroduction\u201d, in Sri M\u0101lin\u012bvijayottara Tantram (Kashmir Series of Texts and Studies; XXXVII), Bombay:  [\u2026]  \u201cTatva-vivechaka\u201d Press, page xvii:",
+									"text": "The whole range of the knowable is divided into two classes, the acceptable and the avoidable. The acceptables are: \u015aiva, \u015aakti, Vidyesa, Mantra, Mantre\u015bvara and the Jivas."
+								},
+								{
+									"citation": "c. 1929\u20131930, Harry Alan Potamkin, \u201cA Diet of Stars\u201d, in Lewis Jacobs, editor, The Compound Cinema: The Film Writings of Harry Alan Potamkin (Studies in Culture & Communication), New York, N.Y.; London: Teachers College Press, published 1977, \u2192ISBN, part 3 (Miscellany), section 9 (Other Writings), page 565:",
+									"text": "The good old acceptables are called \u201ccharacter\u201d actors. An actor of the versatile order is called, casually, even contemptuously, a \u201ccharacter\u201d actor."
+								},
+								{
+									"citation": "1941 July 4, Henry Klein, \u201cThe Dental Status and Dental Needs of Young Adult Males, Rejectable or Acceptable for Military Service, According to Selective Service Dental Requirements\u201d, in Public Health Reports, volume 56, number 27, Washington, D.C.: United States Public Health Service, pages 1373\u20131374:",
+									"text": "Close to 3 percent of the acceptables are free of DMF teeth while none of the rejectables have fewer than 7 DMF teeth."
+								},
+								{
+									"citation": "1974 June 19, Ray Wells, \u201cThe Church and the Aging\u201d, in The Free Will Baptist, Ayden, N.C., page 5, column 3:",
+									"text": "The church will not be content to see that older persons are housed and entertained, or even that acceptables are worked out to provide them with therapy and income from jobs."
+								}
+							],
+							"relative": {
+								"Antonym": [
+									"rejectable"
+								]
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"IPA",
+			"/\u0259k\u02c8s\u025bp.t\u0259.b\u0259l/"
+		],
+		[
+			"IPA",
+			"/\u02c8\u00e6ks\u025bp.t\u0259.b\u0259l/"
+		]
+	]
+}

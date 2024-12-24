@@ -1,0 +1,59 @@
+{
+	"text": "accomplishment",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>accomplishment (<i>countable and uncountable</i>, <i>plural</i> <b class=\"Latn form-of lang-en p-form-of\" lang=\"en\">accomplishments</b>)\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "The act of accomplishing; completion; fulfilment.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "That which completes, perfects, or equips thoroughly; acquirement; attainment; that which constitutes excellence of mind, or elegance of manners, acquired by education or training.\n",
+							"quote": [
+								{
+									"citation": "1763, Charles Churchill, The Ghost, Book III:",
+									"text": "I\u2019ll make a proof how I advance in / My new accomplishment of dancing."
+								},
+								{
+									"citation": "1782, William Cowper, The Progress of Error:",
+									"text": "Accomplishments have taken virtue\u2019s place, / And wisdom falls before exterior grace ;"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Something accomplished; an achievement.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(grammar, semantics) The lexical aspect (aktionsart) of verbs or predicates that change over time until a natural end point.\n",
+							"quote": [
+								{
+									"citation": "1997, Robert van Valin, Randy LaPolla, Syntax\u200e[1], pages 183-84:",
+									"text": "Thus it is attested that some children have taken an accomplishment verb like disappear, which does not have a causative counterpart, and used it as a causative accomplishment in sentences like He disappeared it, i.e. \u2018He made it disappear.\u2019"
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Received Pronunciation",
+			"/\u0259\u02c8k\u0252m.pl\u026a\u0283.m\u0259nt/"
+		],
+		[
+			"General American",
+			"/\u0259\u02c8k\u0251m.pl\u026a\u0283.m\u0259nt/"
+		]
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"text": "abundant",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>First attested about 1380. From Middle English <i class=\"Latn mention\" lang=\"enm\">abundaunt</i>, <i class=\"Latn mention\" lang=\"enm\">habundaunt</i>, <i class=\"Latn mention\" lang=\"enm\">aboundant</i>, from Anglo-Norman <i class=\"Latn mention\" lang=\"fro\">abundant</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">abondant</i>, from Latin <i class=\"Latn mention\" lang=\"la\">abund\u0101ns</i>, present participle of <i class=\"Latn mention\" lang=\"la\">abundo</i> (\u201cto overflow, to abound\u201d). Compare <i class=\"Latn mention\" lang=\"en\">abound</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "Fully sufficient; found in copious supply; in great quantity; overflowing. [First attested around 1350 to 1470.][3]\n\n",
+							"quote": [
+								{
+									"citation": "a. 1859, Leigh Hunt, On the Realities of Imagination:",
+									"text": "[W]ith their magical words they [poets] bring forth to our eyesight the abundant images and beauties of creation."
+								},
+								{
+									"citation": "2017, BioWare, Mass Effect: Andromeda (Science Fiction), Redwood City: Electronic Arts, \u2192OCLC, PC, scene: Kadara:",
+									"text": "Kadara was of great interest to the Andromeda Initiative after it appeared on long-range surveys. Seemingly abundant liquid water and an oxygen-mix atmosphere made it a strong candidate for settlement, earning it the designation Habitat 4. Closer range surveys now reveal that Kadara's water sources are tainted and unpotable."
+								}
+							],
+							"relative": {
+								"Antonyms": [
+									"rare",
+									"scarce"
+								]
+							}
+						},
+						{
+							"definition": "Richly supplied; wealthy; possessing in great quantity. [First attested around 1350 to 1470.][3]\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Exodus 34:6:",
+									"text": "Abundant in goodness and truth."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(mathematics) Being an abundant number, i.e. less than the sum of all of its divisors except itself. [First attested in the mid 16th century.][3]\n",
+							"quote": [],
+							"relative": {
+								"Antonym": [
+									"deficient"
+								]
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u0259\u02c8b\u028cn.d\u0259nt/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u0259\u02c8b\u028cn.d\u0259nt/"
+		]
+	]
+}

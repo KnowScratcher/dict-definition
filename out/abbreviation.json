@@ -1,0 +1,70 @@
+{
+	"text": "abbreviation",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>First attested 1400\u201350. From Middle English <i class=\"Latn mention\" lang=\"enm\">abbreviacioun</i>, from Middle French <i class=\"Latn mention\" lang=\"frm\">abreviation</i>, from Ecclesiastical Latin <i class=\"Latn mention\" lang=\"la\">abbrevi\u0101ti\u014d</i>, from Latin <i class=\"Latn mention\" lang=\"la\">ad</i> + <i class=\"Latn mention\" lang=\"la\">brevi\u014d</i> (\u201cshorten\u201d), from <i class=\"Latn mention\" lang=\"la\">brevis</i> (\u201cshort\u201d). By surface analysis, <i class=\"Latn mention\" lang=\"en\">abbreviate</i> +\u200e <i class=\"Latn mention\" lang=\"en\">-ion</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "The result of shortening or reducing; abridgment. [First attested around 1350 to 1470.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(linguistics) A shortened or contracted form of a word or phrase used to represent the whole, using omission of letters, and sometimes substitution of letters, or duplication of initial letters to signify plurality, including signs such as +, =, @. [Late 16th century.][1] (The addition of quotations indicative of this usage is being sought:)\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "The process of abbreviating. [Mid 16th century.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(music) A notation used in music score to denote a direction, as pp or mf.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(music) One or more dashes through the stem of a note, dividing it respectively into quavers, semiquavers, demisemiquavers, or hemidemisemiquavers.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Any convenient short form used as a substitution for an understood or inferred whole.\n",
+							"quote": [
+								{
+									"citation": "1946-1947, President Truman's committee on Civil Rights\n",
+									"text": "The phrase \"civil rights\" is an abbreviation for a whole complex of relationships."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(biology) Loss during evolution of the final stages of the ancestral ontogenetic pattern.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(mathematics) Reduction to lower terms, as a fraction.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"General American",
+			"/\u0259\u02ccb\u0279i.vi\u02c8e\u026a.\u0283n\u0329/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u0259\u02ccb\u0279i\u02d0.vi\u02c8e\u026a.\u0283\u0259n/"
+		]
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"text": "accidental",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">accidental</i>, from Anglo-Norman <i class=\"Latn mention\" lang=\"fro\">accidentel</i>, Middle French <i class=\"Latn mention\" lang=\"frm\">accidentel</i>, <i class=\"Latn mention\" lang=\"frm\">accidental</i>, and their source, Late Latin <i class=\"Latn mention\" lang=\"la\">accid\u0113nt\u0101lis</i>; corresponding to <i class=\"Latn mention\" lang=\"en\">accident</i> +\u200e <i class=\"Latn mention\" lang=\"en\">-al</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(philosophy) Nonessential to something's inherent nature (especially in Aristotelian thought). [from 14th c.]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": " Pertaining to accident and not essence; thus, inessential; incidental; secondary. [from 14th c.]\n\n",
+							"quote": [],
+							"relative": {
+								"Hyponym": [
+									"instantial"
+								]
+							}
+						},
+						{
+							"definition": " (music) Adjusted by one or two semitones, in temporary departure from the key signature. [from 16th c.]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": " Occurring sometimes, by chance; occasional. [from 16th c.]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": " Happening by chance, or unexpectedly; taking place not according to the usual course of things; by accident, unintentional. [from 16th c.]\n",
+							"quote": [
+								{
+									"citation": "1603, Michel de Montaigne, translated by John Florio, Essays, translation of original in French, III.1:",
+									"text": "The way to trueth is but one and simple, that of particular profit and benefit of affaires a man hath in charge, double, uneven and accidentall [translating fortuite]."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": " (geometry) Being a double point with two distinct tangent planes in 4-dimensional projective space.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "A property which is not essential; a nonessential; anything happening accidentally.\n",
+							"quote": [
+								{
+									"citation": "1662, Fuller, Worthies of England:",
+									"text": "He conceived it just that accidentals ... should sink with the substance of the accusation."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(painting, plural only) Those fortuitous effects produced by luminous rays falling on certain objects so that some parts stand forth in abnormal brightness and other parts are cast into a deep shadow.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(music) A sharp, flat, or natural, occurring not at the commencement of a piece of music as the signature, but before a particular note.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Part of a text that has a mainly structural purpose, such as spelling, punctuation, or capitalization.\n",
+							"quote": [],
+							"relative": {
+								"Coordinate term": [
+									"substantive"
+								]
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"IPA",
+			"/\u02cc\u00e6k.s\u026a\u02c8d\u025bn.tl\u0329/"
+		]
+	]
+}

@@ -1,0 +1,131 @@
+{
+	"text": "accept",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>First attested about 1380. From Middle English <i class=\"Latn mention\" lang=\"enm\">accepten</i>, borrowed from Old French <i class=\"Latn mention\" lang=\"fro\">accepter</i>, or directly from Latin <i class=\"Latn mention\" lang=\"la\">accept\u014d, accept\u0101re</i> (\u201creceive\u201d), frequentative of <i class=\"Latn mention\" lang=\"la\">accipi\u014d</i>, formed from <i class=\"Latn mention\" lang=\"la\">ad-</i> + <i class=\"Latn mention\" lang=\"la\">capi\u014d</i> (\u201cto take\u201d). Displaced native Old English <i class=\"Latn mention\" lang=\"ang\">onf\u014dn</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To receive, especially with a consent, with favour, or with approval.\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Psalms 20:3:",
+									"text": "Remember all thy offerings, and accept thy burnt sacrifice."
+								},
+								{
+									"citation": "1714 August 25, Joseph Addison, \u201cThe Sequel of the Story of Shalum and Hilpa\u201d, in The Spectator, number 585; republished in The Works of the Right Honourable Joseph Addison, Esq, volume 4, London: Jacob Tonson, 1721, page 112:",
+									"text": "The Chinese say, that a little time afterwards she accepted of a treat in one of the neighbouring hills to which Shalum had invited her."
+								},
+								{
+									"citation": "1842, [Edward Bulwer-Lytton], chapter III, in Zanoni.\u00a0[\u2026], volume I, London: Saunders & Otley,\u00a0[\u2026], \u2192OCLC, book the second (Art, Love, and Wonder), page 151:",
+									"text": "I bid thee banish from thy heart all thought of me, but as one whom the Future cries aloud to thee to avoid. Glyndon, if thou acceptest his homage, will love thee till the tomb closes upon both."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To admit to a place or a group.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To regard as proper, usual, true, or to believe in.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To receive as adequate or satisfactory.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To receive or admit to; to agree to; to assent to; to submit to.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To endure patiently.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To acknowledge patiently without opposition or resistance.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, law, business) To agree to pay.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To receive officially.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To receive something willingly.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(Philippines) To do a service done by an establishment.\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(Early Modern, obsolete) Accepted.\n",
+							"quote": [
+								{
+									"citation": "1599, William Shakespeare, Henry V, V-ii:",
+									"text": "Pass our accept and peremptory answer."
+								}
+							],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "(computing) Something that is accepted.\n\n",
+							"quote": [
+								{
+									"citation": "1996, Jim Blinn, Jim Blinn's Corner: A Trip Down the Graphics Pipeline, page 127:",
+									"text": "Almost all line segments will be trivial accepts or trivial rejects, so the above covers the vast majority of cases."
+								}
+							],
+							"relative": {
+								"Antonym": [
+									"reject"
+								]
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Hong Kong",
+			"/\u0259\u02c8s\u025bp(t)/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u0259k\u02c8s\u025bpt/"
+		],
+		[
+			"General American",
+			"/\u0259k\u02c8s\u025bpt/"
+		]
+	]
+}

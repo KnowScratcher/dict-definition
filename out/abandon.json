@@ -1,0 +1,118 @@
+{
+	"text": "abandon",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>abandon (<i>third-person singular simple present</i> <b class=\"Latn form-of lang-en s-verb-form-form-of\" lang=\"en\">abandons</b>, <i>present participle</i> <b class=\"Latn form-of lang-en ing-form-form-of\" lang=\"en\">abandoning</b>, <i>simple past and past participle</i> <b class=\"Latn form-of lang-en ed-form-form-of\" lang=\"en\">abandoned</b>)\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions. [First attested from around (1350 to 1470)][1]\n",
+							"quote": [
+								{
+									"citation": "1856, Thomas Babington Macaulay, The History of England from the Accession of James II. Volume 3, page 312:",
+									"text": "[\u2026]  he abandoned himself  [\u2026]  to his favourite vice."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To desist in doing, practicing, following, holding, or adhering to; to turn away from; to permit to lapse; to renounce; to discontinue. [First attested from around (1350 to 1470)][1]\n",
+							"quote": [
+								{
+									"citation": "2013 May 17, George Monbiot, \u201cMoney just makes the rich suffer\u201d, in The Guardian Weekly\u200e[2], volume 188, number 23, page 19:",
+									"text": "In order to grant the rich these pleasures, the social contract is reconfigured.  [\u2026] \u00a0 The public realm is privatised, the regulations restraining the ultra\u2013wealthy and the companies they control are abandoned, and Edwardian levels of inequality are almost fetishised."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To leave behind; to desert, as in a ship, a position, or a person, typically in response to overwhelming odds or impending dangers; to forsake, in spite of a duty or responsibility. [First attested in the late 15th century.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1832, Isaac Taylor, Saturday Evening\u200e[3], page 3:",
+									"text": "Hope was overthrown, and yet could not be abandoned."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, obsolete) To subdue; to take control of. [Attested from around (1350 to 1470) until the mid 16th century.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, obsolete) To cast out; to banish; to expel; to reject. [Attested from the mid 16th century until the mid 17th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1594, William Shakespeare, The Taming of the Shrew, act I, scene ii:",
+									"text": "Being all this time abandoned from your bed."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To no longer exercise a right, title, or interest, especially with no interest of reclaiming it again; to yield; to relinquish. [First attested in the mid 18th century.][1]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To surrender to the insurer (an insured item), so as to claim a total loss.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		},
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">abandoun</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">abandon</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">abondonner</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "A yielding to natural impulses or inhibitions; freedom from artificial constraint, with loss of appreciation of consequences. [Early 19th century.][1][3] (Now especially in the phrase with abandon.)\n\n",
+							"quote": [
+								{
+									"citation": "1846, The New Monthly Magazine and Universal Register, page 453:",
+									"text": "The Italian painters have an abandon in their chiar' oscuro which mellows up their flesh tints in a way that no other school can imitate : the frigidity of their outline is another remarkable feature, and the harmony of their impasto is unique."
+								},
+								{
+									"citation": "1954, Gore Vidal, Messiah:",
+									"text": "I envy those chroniclers who assert with reckless but sincere abandon: 'I was there. I saw it happen. It happened thus.'"
+								},
+								{
+									"citation": "2007 November 4, David M. Halbfinger, \u201cThe City That Never Sleeps, Comatose\u201d, in The New York Times\u200e[4]:",
+									"text": "They needed to have an abandon in their performance that you just can\u2019t get out of people in the middle of the night when they\u2019re barefoot."
+								}
+							],
+							"relative": {
+								"Synonyms": [
+									"wantonness",
+									"unrestraint",
+									"libertinism",
+									"abandonment",
+									"profligacy",
+									"unconstraint"
+								]
+							}
+						},
+						{
+							"definition": "(obsolete) Abandonment; relinquishment.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"IPA",
+			"/\u0259\u02c8b\u00e6n.d\u0259n/"
+		]
+	]
+}

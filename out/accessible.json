@@ -1,0 +1,91 @@
+{
+	"text": "accessible",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>First attested in 1400, from French, from Late Latin <i class=\"Latn mention\" lang=\"la\">accessibilis</i>, from <i class=\"Latn mention\" lang=\"la\">accessus</i>, perfect passive participle of <i class=\"Latn mention\" lang=\"la\">acc\u0113d\u014d</i> (\u201capproach\u201d), equivalent to <i class=\"Latn mention\" lang=\"en\">access</i> +\u200e <i class=\"Latn mention\" lang=\"en\">-ible</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "Easy of access or approach. [from 1640s]\n\n",
+							"quote": [
+								{
+									"citation": "1926, A[rthur] [S]tanley Eddington, \u201cSurvey of the Problem\u201d, in The Internal Constitution of the Stars, page 1:",
+									"text": "At first sight it would seem that the deep interior of the sun and stars is less accessible to scientific investigation than any other region of the universe."
+								}
+							],
+							"relative": {
+								"Synonym": [
+									"approachable"
+								]
+							}
+						},
+						{
+							"definition": "(specifically) Built or designed as to be usable by people with disabilities.\n\n",
+							"quote": [
+								{
+									"citation": "2023 November 1, Nick Brodrick talks to Jason Cocker, \u201cA station that \"oozes\" customer service...\u201d, in RAIL, number 995, pages 52-53:",
+									"text": "As well as the boom in off-peak leisure numbers, \"there has been a big spike in passenger assistance - that's really taken off as well\", he continues. \"We're probably victims of our own success because we promote this more than we ever used to. We promote how accessible the railways are. I think that this area has more than doubled from pre-COVID levels."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(of a person) Easy to get along with.\n",
+							"quote": [],
+							"relative": {
+								"Synonyms": [
+									"easy-going",
+									"friendly",
+									"welcoming"
+								]
+							}
+						},
+						{
+							"definition": "(followed by to) Open to the influence of.\n",
+							"quote": [
+								{
+									"citation": "1890, Thomas Babington Macaulay, The History of Herodotus:",
+									"text": "Minds accessible to reason."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Obtainable; to be got at.\n",
+							"quote": [
+								{
+									"citation": "1849\u20131861, Thomas Babington Macaulay, The History of England from the Accession of James the Second, volume (please specify |volume=I to V), London: Longman, Brown, Green, and Longmans, \u2192OCLC:",
+									"text": "The materials, however, which are at present accessible, are sufficient for the construction of a narrative not to be read without shame and loathing."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(art, literature) Easily understood or appreciated. [from 1961]\n",
+							"quote": [
+								{
+									"citation": "2015, Rose Bret\u00e9cher, Pure, \u2192ISBN:",
+									"text": "But something new was rippling through a million MySpace profiles. The sound was electro, and bass-laced synthetic dance pop would soon start streaming in from producers in Paris, dizzying the twenteens of Britain with its accessible, anthemic funk."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Capable of being used or seen.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u0259k\u02c8s\u025bs.\u0259.b\u0259l/"
+		]
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"text": "abundance",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">abundaunce</i>, <i class=\"Latn mention\" lang=\"enm\">habaundance</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">habundance</i>, <i class=\"Latn mention\" lang=\"fro\">abondance</i>, from Latin <i class=\"Latn mention\" lang=\"la\">abundantia</i> (\u201cfullness, plenty\u201d), from <i class=\"Latn mention\" lang=\"la\">abund\u014d</i> (\u201cto overflow\u201d). Equivalent to <i class=\"Latn mention\" lang=\"en\">abound</i> +\u200e <i class=\"Latn mention\" lang=\"en\">-ance</i>. Displaced  Old English <i class=\"Latn mention\" lang=\"ang\">geniht</i> (\u201cabundance, plenty\u201d).\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "A large quantity; many. [First attested around 1150 to 1350.][2]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "An overflowing fullness or ample sufficiency; profusion; copious supply; superfluity; plentifulness. [First attested around 1350 to 1470.][2]\n\n",
+							"quote": [
+								{
+									"citation": "c. 1610?, Walter Raleigh, A Discourse of War:",
+									"text": "It is lamentable to remember what abundance of noble blood hath been shed with small benefit to the Christian state."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Wealth; affluence; plentiful amount of resources. [First attested around 1350 to 1470.][2]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Frequency, amount, ratio of something within a given environment or sample. [First attested in the late 19th century.][2]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(card games) A bid to take nine or more tricks in solo whist. [First attested in the late 19th century.][2]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(Scotland) enough, sufficiency.[3]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Received Pronunciation",
+			"/\u0259\u02c8b\u028cn.dn\u0329s/"
+		],
+		[
+			"US",
+			"/\u0259\u02c8b\u028cn.dn\u0329s/"
+		]
+	]
+}

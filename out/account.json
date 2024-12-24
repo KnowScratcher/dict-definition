@@ -1,0 +1,267 @@
+{
+	"text": "account",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">acounte</i>, from Anglo-Norman <i class=\"Latn mention\" lang=\"fro\">acunte</i> (\u201caccount\u201d), from Old French <i class=\"Latn mention\" lang=\"fro\">aconte</i>, from <i class=\"Latn mention\" lang=\"fro\">aconter</i> (\u201cto reckon\u201d), from Latin <i class=\"Latn mention\" lang=\"la\">comput\u014d</i> (\u201cto sum up\u201d).\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "(accounting) A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and also of other things subjected to a reckoning or review. [from c. 1300]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(banking) A bank account.\n\n",
+							"quote": [
+								{
+									"citation": "1910, Journal of the American Bankers Association Vol. XI, No. 1, American Bankers Association, page 3:\n",
+									"text": "The Pueblo bank has advised that the operator opened an account at that bank with currency, and a few days later withdrew the amount."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "A statement in general of reasons, causes, grounds, etc., explanatory of some event; a reason of an action to be done.\n\n\n\n",
+							"quote": [
+								{
+									"citation": "2012 January, Stephen Ledoux, \u201cBehaviorism at 100\u201d, in American Scientist\u200e[1], volume 100, number 1, page 60:",
+									"text": "Becoming more aware of the progress that scientists have made on behavioral fronts can reduce the risk that other natural scientists will resort to mystical agential accounts when they exceed the limits of their own disciplinary training."
+								},
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Luke 16:2:",
+									"text": "Give an account of thy stewardship; for thou mayest be no longer steward."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "A reason, grounds, consideration, motive; a person's sake.\n\n",
+							"quote": [
+								{
+									"citation": "1922 February, James Joyce, \u201c[Episode 16]\u201d, in Ulysses, Paris: Shakespeare and Company,\u00a0[\u2026], \u2192OCLC:",
+									"text": "[\u2026]  who evidently a glutton for work, it struck him, was having a quiet forty winks for all intents and purposes on his own private account while Dublin slept."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "A record of events; a relation or narrative. [from c. 1610]\n\n",
+							"quote": [
+								{
+									"citation": "1657, Jam. Howel [i.e., James Howell], Londinopolis; an Historicall Discourse or Perlustration of the City of London, the Imperial Chamber, and Chief Emporium of Great Britain:\u00a0[\u2026], London:  [\u2026]  J[ohn] Streater, for Henry Twiford, George Sawbridge, Thomas Dring, and John Place,\u00a0[\u2026], \u2192OCLC:",
+									"text": "A laudible account of the city of London."
+								},
+								{
+									"citation": "1920, Carl D. Buck, \u201cHittite an Indo-European Language?\u201d, in Classical Philology, volume 15, number 2, \u2192DOI, page 185:",
+									"text": "The study of the main body of Hittite texts was intrusted[sic] to the Austrian scholar Hrozny, who in 1915 published a preliminary account of his results [\u2026]"
+								},
+								{
+									"citation": "2000, Yunzhong Shu, chapter 2, in Buglers on the Home Front: The Wartime Practice of the Qiyue School, State University of New York Press, \u2192ISBN, page 58:",
+									"text": "In a lapidary style, Qiu Dongping clearly and forcefully describes battlefield actions with simple sentences, giving a blow-by-blow account of successive events with neither understatement nor exaggeration."
+								}
+							],
+							"relative": {
+								"Synonyms": [
+									"narrative",
+									"narration",
+									"relation",
+									"recital",
+									"report",
+									"description",
+									"explanation"
+								]
+							}
+						},
+						{
+							"definition": "An estimate or estimation; valuation; judgment.\n",
+							"quote": [
+								{
+									"citation": "1623, William Shakespeare, The Merchant of Venice, act 3, scene 2:",
+									"text": "To stand high in your account"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Importance; worth; value; esteem; judgement.\n",
+							"quote": [
+								{
+									"citation": "1725, Homer, \u201cBook XIV\u201d, in [Alexander Pope], transl., The Odyssey of Homer.\u00a0[\u2026], volume III, London:  [\u2026]  Bernard Lintot, \u2192OCLC, footnote:",
+									"text": "There is a peculiarity in Homer's manner of apostrophizing Eumaeus, and speaking of him in the second person; it is generally apply'd by that Poet only to men of account and distinction, and by it the Poet, as it were, adresses them with respect"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Authorization as a specific registered user in accessing a system.\n\n",
+							"quote": [
+								{
+									"citation": "2000, Sean Mooney, 5,110 Days in Tokyo and Everything's Hunky-dory, page 66:",
+									"text": "In these cases, the agency has to buy through another ad agency that has an account with the media vehicle in question."
+								},
+								{
+									"citation": "2002, Whizkids Data Creation:",
+									"text": "For example, to register an account with Hotmail, you should type www.hotmail.com on the Address bar of your browser to go to the Hotmail e-mail service WEB page."
+								},
+								{
+									"citation": "2006, Michael Miller, Choosing an Online Payment Service:",
+									"text": "While the buyer might have to create an account with the online payment service, this account is free; the account exists only to facilitate future transactions, since the buyer's address and payment information doesn't have to be re-entered for each new transaction."
+								},
+								{
+									"citation": "2009, Jason Rich, Design and Launch an Online Web Design Business in a Week, page 223:",
+									"text": "Depending on the shipping options you plan to offer to your customers, you'll probably need to open shipping accounts with FedEx, UPS, and perhaps other couriers as well."
+								},
+								{
+									"citation": "2014, Brad Miser, My iPhone (Covers iOS 8 on iPhone 6/6 Plus, 5S/5C/5, and 4S), page 71:",
+									"text": "Of course, to use iCloud on your iPhone, you need to have an iCloud account."
+								}
+							],
+							"relative": {
+								"Synonyms": [
+									"membership",
+									"registration"
+								],
+								"Meronym": [
+									"username"
+								]
+							}
+						},
+						{
+							"definition": "(archaic) A reckoning; computation; calculation; enumeration; a record of some reckoning.\n",
+							"quote": [
+								{
+									"citation": "1902, John Buchan, The Outgoing of the Tide:",
+									"text": "It seems that this severity weakened his frame, for three years syne come Martinmas he was taken ill with a fever of the bowels, and after a week's sickness he went to his account, where I trust he is accepted."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(uncountable) Profit; advantage.\n\n",
+							"quote": [
+								{
+									"citation": "1726 October 28, [Jonathan Swift], Travels into Several Remote Nations of the World.  [\u2026]  [Gulliver\u2019s Travels], volume I, London:  [\u2026]  Benj[amin] Motte,\u00a0[\u2026], \u2192OCLC, part I (A Voyage to Lilliput):",
+									"text": "I removed from the Old Jewry to Fetter Lane, and from thence to Wapping, hoping to get business among the sailors; but it would not turn to account."
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		},
+		{
+			"etymologyHTML": "<p>From Old French <i class=\"Latn mention\" lang=\"fro\">acounter</i>, <i class=\"Latn mention\" lang=\"fro\">accomptere</i> et al., from <i class=\"Latn mention\" lang=\"fro\">a-</i> + <i class=\"Latn mention\" lang=\"fro\">conter</i> (\u201cto count\u201d)). Compare <i class=\"Latn mention\" lang=\"en\">count</i>.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(obsolete, transitive) To present an account of; to answer for, to justify. [14th\u201317th c.]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive, now rare) To give an account of financial transactions, money received etc. [from 14th c.]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive) To estimate, consider (something to be as described). [from 14th c.]\n\n",
+							"quote": [
+								{
+									"citation": "1843 April, Thomas Carlyle, chapter 8, in Past and Present, American edition, Boston, Mass.: Charles C[offin] Little and James Brown, published 1843, \u2192OCLC, book III (The Modern Worker):",
+									"text": "The Pagan Hercules, why was he accounted a hero?"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To consider that. [from 14th c.]\n",
+							"quote": [
+								{
+									"citation": "1611, The Holy Bible,\u00a0[\u2026] (King James Version), London:  [\u2026]  Robert Barker,\u00a0[\u2026], \u2192OCLC, Hebrews 11:19:",
+									"text": "Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To give a satisfactory evaluation for financial transactions, money received etc. [from 15th c.]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To give a satisfactory evaluation for (one's actions, behaviour etc.); to answer for. [from 16th c.]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To give a satisfactory reason for; to explain. [from 16th c.]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To establish the location for someone. [from 19th c.]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To cause the death, capture, or destruction of someone or something (+ for). [from 19th c.]\n",
+							"quote": [
+								{
+									"citation": "1848, William Makepeace Thackeray, chapter 45, in Vanity Fair:",
+									"text": "Desperately bold at last, the persecuted animals bolted above-ground\u2014the terrier accounted for one, the keeper for another; Rawdon, from flurry and excitement, missed his rat, but on the other hand he half-murdered a ferret."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "To provide explanation.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(transitive, now rare) To calculate, work out (especially with periods of time). [from 14th c.]\n",
+							"quote": [
+								{
+									"citation": "1650, Thomas Browne, Pseudodoxia Epidemica:\u00a0[\u2026], 2nd edition, London:  [\u2026]  A[braham] Miller, for Edw[ard] Dod and Nath[aniel] Ekins,\u00a0[\u2026], \u2192OCLC:",
+									"text": "neither the motion of the Moon, whereby moneths are computed; nor of the Sun, whereby years are accounted, consisteth of whole numbers, but admits of fractions, and broken parts, as we have already declared concerning the Moon."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(obsolete) To count (up), enumerate. [14th\u201317th c.]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(obsolete) To recount, relate (a narrative etc.). [14th\u201316th c.]\n",
+							"quote": [
+								{
+									"citation": "1590, Edmund Spenser, \u201cBook III, Canto VI\u201d, in The Faerie Queene.\u00a0[\u2026], London:  [\u2026]  [John Wolfe] for William Ponsonbie, \u2192OCLC:",
+									"text": "Long worke it were / Here to account the endlesse progeny / Of all the weeds that bud and blossome there [...]."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "To count.\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u0259\u02c8ka\u028ant/"
+		]
+	]
+}

@@ -146,7 +146,7 @@ class Finder:
         return build
 
 # finder = Finder("cathead")
-finder = Finder("absentminded")
+finder = Finder("hundred")
 class EnhancedJSONEncoder(json.JSONEncoder):
         def default(self, o):
             if dataclasses.is_dataclass(o):

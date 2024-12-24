@@ -1,0 +1,304 @@
+{
+	"text": "about",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>Preposition and adverb from Middle English <i class=\"Latn mention\" lang=\"enm\">aboute</i>, <i class=\"Latn mention\" lang=\"enm\">abouten</i>, from Old English <i class=\"Latn mention\" lang=\"ang\">ab\u016btan</i>, <i class=\"Latn mention\" lang=\"ang\">onb\u016btan</i>, from <i class=\"Latn mention\" lang=\"ang\">on</i> (\u201cin, on\u201d) +\u200e <i class=\"Latn mention\" lang=\"ang\">b\u016btan</i> (\u201coutside of\u201d), itself from <i class=\"Latn mention\" lang=\"ang\">be</i> (\u201cby\u201d) +\u200e <i class=\"Latn mention\" lang=\"ang\">\u016btan</i> (\u201coutside\u201d). Cognate with Old Frisian <i class=\"Latn mention\" lang=\"ofs\">ab\u00fbta</i> (\u201coutside; except\u201d).\n</p><p>Adjective from Middle English <i class=\"Latn mention\" lang=\"enm\">about</i> (adverb).\n</p>",
+			"pos": [
+				{
+					"pos": "Preposition",
+					"definitions": [
+						{
+							"definition": "In a circle around; all round; on every side of; on the outside of. [from before 1150][2]\n\n",
+							"quote": [
+								{
+									"citation": "c. 1604\u20131605 (date written), William Shakespeare, \u201cAll\u2019s Well, that Ends Well\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, (please specify the act number in uppercase Roman numerals, and the scene number in lowercase Roman numerals):",
+									"text": "So look about you; know you any here?"
+								},
+								{
+									"citation": "1769, King James Bible, Oxford Standard text, Proverbs, iii, 3\n",
+									"text": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:"
+								},
+								{
+									"citation": "1886, Duncan Keith, A history of Scotland: civil and ecclesiastical from the earliest times to the death of David I, 1153, volume 1:",
+									"text": "Nothing daunted, the fleet put to sea, and after sailing about the island for some time, a landing was effected in the west of Munster."
+								},
+								{
+									"citation": "1892, James Yoxall, chapter 5, in The Lonely Pyramid:",
+									"text": "The desert storm was riding in its strength; the travellers lay beneath the mastery of the fell simoom.  [\u2026]  Roaring, leaping, pouncing, the tempest raged about the wanderers, drowning and blotting out their forms with sandy spume."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Over or upon different parts of; through or over in various directions; here and there in; to and fro in; throughout. [from ca. 1150\u20131350][2]\n\n",
+							"quote": [
+								{
+									"citation": "1671, John Milton, \u201cThe First Book\u201d, in Paradise Regain\u2019d. A Poem. In IV Books. To which is Added, Samson Agonistes, London:  [\u2026]  J[ohn] M[acock] for John Starkey\u00a0[\u2026], \u2192OCLC, page 3, lines 30\u201335:",
+									"text": "[I]n likene\u017fs of a Dove / The Spirit de\u017fcended, while the Fathers voice / From Heav'n pronounc'd him his beloved Son. / That heard the Adver\u017fary, who roving \u017ftill / About the world, at that a\u017f\u017fembly fam'd / Would not be la\u017ft,  [\u2026]"
+								},
+								{
+									"citation": "1849\u20131861, Thomas Babington Macaulay, The History of England from the Accession of James the Second, volume (please specify |volume=I to V), London: Longman, Brown, Green, and Longmans, \u2192OCLC:",
+									"text": "He had been known, during several years, as a small poet; and some of the most savage lampoons which were handed about the coffeehouses were imputed to him."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(with 'to' and verb infinitive) See about to.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(with present participle, obsolete or dialect) On the point or verge of.\n",
+							"quote": [
+								{
+									"citation": "1866, Charles Daniel Drake, A treatise on the law of suits by attachment in the United States, page 80:",
+									"text": "[It] was held, that the latter requirement was fulfilled by an affidavit declaring that \"the defendant was about leaving the State permanently.\""
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Indicates that something will happen very soon; indicates a plan or intention to do something.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Concerning; with regard to; on account of; on the subject of; to affect. [from ca. 1150\u20131350][2]\n\n",
+							"quote": [
+								{
+									"citation": "1671, John Milton, Samson Agonistes:",
+									"text": "I already have made way / To some Philistian lords, with whom to treat / About thy ransom."
+								},
+								{
+									"citation": "1856, Voltaire, Philosophical dictionary:",
+									"text": "There have been violent quarrels about whether the whole is greater than a part."
+								},
+								{
+									"citation": "1860, Anthony Trollope, Framley Parsonage:",
+									"text": "\"I'll tell you what, Fanny: she must have her way about Sarah Thompson. You can see her to-morrow and tell her so.\""
+								},
+								{
+									"citation": "1913, Joseph C[rosby] Lincoln, chapter IV, in Mr. Pratt\u2019s Patients, New York, N.Y., London: D[aniel] Appleton and Company, \u2192OCLC:",
+									"text": "I told him about everything I could think of; and what I couldn't think of he did. He asked about six questions during my yarn, but every question had a point to it. At the end he bowed and thanked me once more. As a thanker he was main-truck high; I never see anybody so polite."
+								},
+								{
+									"citation": "2013 June 22, \u201cEngineers of a different kind\u201d, in The Economist, volume 407, number 8841, page 70:",
+									"text": "Private-equity nabobs bristle at being dubbed mere financiers. Piling debt onto companies\u2019 balance-sheets is only a small part of what leveraged buy-outs are about, they insist. Improving the workings of the businesses they take over is just as core to their calling, if not more so. Much of their pleading is public-relations bluster."
+								},
+								{
+									"citation": "2016, VOA Learning English (public domain)\n",
+									"text": "Well, let\u2019s not talk about yesterday.\nAudio (US):(file)"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Concerned with; engaged in; intent on. [from ca. 1150\u20131350][2]\n\n",
+							"quote": [
+								{
+									"citation": "1769, King James Bible, Oxford Standard text, Luke, ii, 49\n",
+									"text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business?"
+								},
+								{
+									"citation": "2013 March 14, Parks and Recreation, season 5, episode 16, Bailout:\n",
+									"text": "RON: And I\u2019ll have the number 8.\nWAITER: That\u2019s a party platter, it serves 12 people.\nRON: I know what I\u2019m about, son."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Within or in the immediate neighborhood of; in contiguity or proximity to; near, as to place. [from ca. 1350\u20131470][2]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "On one\u2019s person; nearby the person. [from ca. 1350\u20131470][2]\n\n",
+							"quote": [
+								{
+									"citation": "1837, [Edward Bulwer-Lytton], Ernest Maltravers [\u2026] , volume I, London: Saunders and Otley,\u00a0[\u2026], \u2192OCLC, book I, page 16:",
+									"text": "At this assurance the traveller rose, and approached Alice softly. He drew away her hands from her face, when she said gently, \"Have you much money about you?\" / \"Oh the mercenary baggage!\" said the traveller to himself; and then replied aloud, \"Why, pretty one?\u2014Do you sell your kisses so high, then?\""
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(figurative) In or near, as in mental faculties or (literally) in the possession of; under the control of; at one's command; in one's makeup. [from ca. 1350\u20131470][2]\n\n",
+							"quote": [
+								{
+									"citation": "1897 December (indicated as 1898), Winston Churchill, chapter II, in The Celebrity: An Episode, New York, N.Y.: The Macmillan Company; London: Macmillan & Co., Ltd., \u2192OCLC:",
+									"text": "Sunning himself on the board steps, I saw for the first time Mr. Farquhar Fenelon Cooke. [\u2026] A silver snaffle on a heavy leather watch guard which connected the pockets of his corduroy waistcoat, together with a huge gold stirrup in his Ascot tie, sufficiently proclaimed his tastes.  [\u2026]  But withal there was a perceptible acumen about the man which was puzzling in the extreme."
+								}
+							],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adverb",
+					"definitions": [
+						{
+							"definition": "On all sides; around. [from before 1150[2]]\n\n",
+							"quote": [
+								{
+									"citation": "1599, Robert Greene, The Comical History of Alphonsus King of Aragon, III-ii:",
+									"text": "Why, then, I see, \u2019tis time to look about, / When every boy Alphonsus dares control."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Here and there; around; in one place and another; up and down. [from before 1150[2]]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "From one place or position to another in succession; indicating repeated movement or activity.\n\n",
+							"quote": [
+								{
+									"citation": "1769, King James Bible, Oxford Standard text, 1 Timothy, v,13,\n",
+									"text": "And withal they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not."
+								},
+								{
+									"citation": "1907 August, Robert W[illiam] Chambers, chapter IX, in The Younger Set, New York, N.Y.: D. Appleton & Company, \u2192OCLC:",
+									"text": "He and Gerald usually challenged the rollers in a sponson canoe when Gerald was there for the weekend; or, when Lansing came down, the two took long swims seaward or cruised about in Gerald's dory, clad in their swimming-suits; and Selwyn's youth became renewed in a manner almost ridiculous,\u00a0[\u2026]."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Indicating unproductive or unstructured activity.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Nearly; approximately; with close correspondence in quality, manner, degree, quantity, or time; almost. [from before 1150[2]]\n\n",
+							"quote": [
+								{
+									"citation": "c. 1590\u20131591 (date written), William Shakespeare, \u201cThe Two Gentlemen of Verona\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, (please specify the act number in uppercase Roman numerals, and the scene number in lowercase Roman numerals):",
+									"text": "Therefore I know she is about my height."
+								},
+								{
+									"citation": "1769, King James Bible, Oxford Standard text, Matthew, xx, 3,\n",
+									"text": "And he went out about the third hour, and saw others standing idle in the marketplace"
+								},
+								{
+									"citation": "1769, King James Bible, Oxford Standard text, Exodus, ix, 18\n",
+									"text": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now."
+								},
+								{
+									"citation": "1769, King James Bible, Oxford Standard text, Exodus, xxxii,28:\n",
+									"text": "And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men."
+								},
+								{
+									"citation": "1907 August, Robert W[illiam] Chambers, chapter IX, in The Younger Set, New York, N.Y.: D. Appleton & Company, \u2192OCLC:",
+									"text": "\u201cHeavens!\u201d exclaimed Nina, \u201cthe blue-stocking and the fogy!\u2014and yours are pale blue, Eileen!\u2014you\u2019re about as self-conscious as Drina\u2014slumping there with your hair tumbling \u00e0 la M\u00e9rode! Oh, it's very picturesque, of course, but a straight spine and good grooming is better.\u00a0[\u2026]\u201d"
+								},
+								{
+									"citation": "1913, Joseph C[rosby] Lincoln, chapter IV, in Mr. Pratt\u2019s Patients, New York, N.Y., London: D[aniel] Appleton and Company, \u2192OCLC:",
+									"text": "I told him about everything I could think of; and what I couldn't think of he did. He asked about six questions during my yarn, but every question had a point to it. At the end he bowed and thanked me once more. As a thanker he was main-truck high; I never see anybody so polite."
+								},
+								{
+									"citation": "2013 July 20, \u201cWelcome to the plastisphere\u201d, in The Economist, volume 408, number 8845:",
+									"text": "[The researchers] noticed many of their pieces of [plastic marine] debris sported surface pits around two microns across. Such pits are about the size of a bacterial cell. Closer examination showed that some of these pits did, indeed, contain bacteria,\u00a0 [\u2026] ."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Near; in the vicinity. [from ca. 1350\u20131470[2]]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(nautical) To the opposite tack: see go about. [from late 15th c.[2]]\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "To a reversed order; half round; facing in the opposite direction; from a contrary point of view. [from ca. 1350\u20131470[2]]\n\n\n",
+							"quote": [
+								{
+									"citation": "1888, Horatio Alger, The Errand Boy:",
+									"text": "Mr. Carter, whose back had been turned, turned about and faced his niece."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(obsolete or rare) In succession; one after another; in the course of events. [from before 1150[2]]\n",
+							"quote": [
+								{
+									"citation": "1818, James Hogg, published in The Scots Magazine, Vol. 86, p. 218, \"On the Life and Writings of James Hogg\" [1] [Quoted in the OED]\n",
+									"text": "When he had finished, he drew his plaid around his head, and went slowly down to the little dell, where he used every day to offer up his morning and evening prayers, and where we have often sat together on Sabbath afternoons, reading verse about with our children in the Bible."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(archaic) In circuit; circularly; by a circuitous way; around the outside; in circumference. [from ca. 1350\u20131470[2]]\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "Moving around; astir.\n\n",
+							"quote": [
+								{
+									"citation": "[1898], J[ohn] Meade Falkner, Moonfleet, London; Toronto, Ont.: Jonathan Cape, published 1934, \u2192OCLC:",
+									"text": "'John, I have observed that you are often out and about of nights, sometimes as late as half past seven or eight.\u00a0[\u2026]'"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "In existence; being in evidence; apparent.\n\n",
+							"quote": [
+								{
+									"citation": "1975, IPC Building & Contract Journals Ltd, Highways & road construction, volume 43:",
+									"text": "To my mind, transportation engineering is similar to flying in the 1930s \u2014 it has been about for some time but it has taken the present economic jolt to shake it out of its infancy, in the same way that the war started the development of flying to its current stage."
+								},
+								{
+									"citation": "2005, IDG Communications, Digit, numbers 89-94:",
+									"text": "Although it has been about for some time now, I like the typeface Sauna."
+								},
+								{
+									"citation": "2006, Great Britain Parliament: House of Lords Science and Technology Committee, Energy: Meeting With Malcolm Wicks MP,\n",
+									"text": "Is not this sudden interest in capturing CO2 \u2014 and it has been about for a little while \u2014 simply another hidey-hole for the government to creep into?"
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Near; in the vicinity or neighbourhood.\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Canada, Ireland, Virginia",
+			"/\u0259\u02c8b\u025b\u028at/"
+		],
+		[
+			"Canada, Scotland",
+			"/\u0259\u02c8b\u028c\u028at/"
+		],
+		[
+			"Local Dublin",
+			"/\u0259\u02c8b\u025b\u028a/"
+		],
+		[
+			"US, England",
+			"/\u0259\u02c8ba\u028at/"
+		]
+	]
+}

@@ -1,0 +1,136 @@
+{
+	"text": "abrupt",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>First attested in 1583. Borrowed from Latin <i class=\"Latn mention\" lang=\"la\">abruptus</i> (\u201cbroken off\u201d), perfect passive participle of <i class=\"Latn mention\" lang=\"la\">abrump\u014d</i> (\u201cbreak off\u201d), formed from <i class=\"Latn mention\" lang=\"la\">ab</i> (\u201cfrom, away from\u201d) + <i class=\"Latn mention\" lang=\"la\">rump\u014d</i> (\u201cto break\u201d).\n</p>",
+			"pos": [
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(obsolete, rare) Broken away (from restraint). [Attested only in the late 16th century.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Without notice to prepare the mind for the event; sudden; hasty; unceremonious. [First attested in the late 16th century.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1592, William Shakespeare, Henry VI Part I, II-iii:",
+									"text": "The cause of your abrupt departure."
+								},
+								{
+									"citation": "1837, L[etitia] E[lizabeth] L[andon], \u201cSuccess\u201d, in Ethel Churchill: Or, The Two Brides.\u00a0[\u2026], volume II, London: Henry Colburn,\u00a0[\u2026], \u2192OCLC, page 76:",
+									"text": "There was something in this abrupt allusion to the treasured and hidden past, that at once shocked and silenced Norbourne. He was annoyed to find that his heart's sweetest secret was in the possession of one so little likely to keep it;..."
+								},
+								{
+									"citation": "2020 January 28, Kiran Millwood Hargrave, The Mercies\u200e[1], \u2192ISBN, page 130:",
+									"text": "'Is it a slickstone?' she asks, and Maren snorts, an abrupt sound, bringing her hand up to her mouth."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Curt in manner. [First attested in the late 16th century.][1]\n\n",
+							"quote": [
+								{
+									"citation": "1841 February\u2013November, Charles Dickens, \u201cBarnaby Rudge. Chapter 12.\u201d, in Master Humphrey\u2019s Clock, volume II, London: Chapman & Hall,\u00a0[\u2026], \u2192OCLC, page 301:",
+									"text": "With no great disparity between them in point of years, they were, in every other respect, as unlike and far removed from each other as two men could well be. The one was soft-spoken, delicately made, precise, and elegant; the other, a burly square-built man, negligently dressed, rough and abrupt in manner, stern, and, in his present mood, forbidding both in look and speech."
+								}
+							],
+							"relative": {
+								"Synonyms": [
+									"brusque",
+									"rude",
+									"uncivil",
+									"impolite",
+									"terse"
+								]
+							}
+						},
+						{
+							"definition": "Having sudden transitions from one subject or state to another; unconnected; disjointed. [First attested in the late 16th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1641, Ben Jonson, Discoveries Made upon Men and Matter\u200e[2]:",
+									"text": "The abrupt style, which hath many breaches."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(obsolete) Broken off. [Attested from the early 17th century until the mid 18th century.][1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "Extremely steep or craggy as if broken up; precipitous. [First attested in the early 17th century.][1]\n",
+							"quote": [
+								{
+									"citation": "a. 1749 (date written), James Thomson, \u201cSummer\u201d, in The Seasons, London:  [\u2026]  A[ndrew] Millar, and sold by Thomas Cadell,\u00a0[\u2026], published 1768, \u2192OCLC:",
+									"text": "The mazy-running brookForms a deep pool; this bank abrupt and high."
+								},
+								{
+									"citation": "1961 October, \"\"Voyageur\"\", \u201cThe Cockermouth, Keswick & Penrith Railway\u201d, in Trains Illustrated, page 601:",
+									"text": "To the north the towering scree-strewn slopes of Saddleback begin to draw nearer as we start the abrupt descent towards Keswick."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(botany) Suddenly terminating, as if cut off; truncate. [First attested in the early 19th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1839, William Baxter, British Ph\u00e6nogamous Botany\u200e[3], \u2192OCLC:",
+									"text": "Root oblong, blackish, nearly the thickness of the little finger, often growing obliquely; abrupt at the lower end, so as to appear as if bitten off, furnished with long whitish fibres."
+								}
+							],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive, archaic) To tear off or asunder. [First attested in the mid 17th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1642, Tho[mas] Browne, \u201c(please specify the page)\u201d, in Religio Medici.\u00a0[\u2026], 4th edition, London:  [\u2026]  E. Cotes for Andrew Crook\u00a0[\u2026], published 1656, \u2192OCLC:",
+									"text": "Till death abrupts them."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "To interrupt suddenly. [First attested in the mid 17th century.][1]",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "(poetic) Something which is abrupt; an abyss. [First attested in the mid 17th century.][1]\n",
+							"quote": [
+								{
+									"citation": "1667, John Milton, \u201cBook II\u201d, in Paradise Lost.\u00a0[\u2026], London:  [\u2026]  [Samuel Simmons], and are to be sold by Peter Parker\u00a0[\u2026]; [a]nd by Robert Boulter\u00a0[\u2026]; [a]nd Matthias Walker,\u00a0[\u2026], \u2192OCLC; republished as Paradise Lost in Ten Books:\u00a0[\u2026], London: Basil Montagu Pickering\u00a0[\u2026], 1873, \u2192OCLC:",
+									"text": "Over the vast abrupt."
+								}
+							],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"US",
+			"/\u0259\u02c8b\u0279\u028cpt/"
+		]
+	]
+}

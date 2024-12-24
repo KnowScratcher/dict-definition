@@ -155,6 +155,7 @@ class EnhancedJSONEncoder(json.JSONEncoder):
 # main script
 with open("7000.txt") as d:
     word_list = d.readlines()
+ignored = []
 for i in tqdm(word_list):
     i = i.strip()
     if os.path.exists(f"./out/{i}.json"):
@@ -165,12 +166,16 @@ for i in tqdm(word_list):
             finder = Finder(i)
         except:
             print(f"\nfailed to fetch {i}")
+            ignored.append(i)
         else:
             try:
                 with open(f"./out/{i}.json","w",encoding="UTF-8") as o:
                     json.dump(finder.word_class,o,cls=EnhancedJSONEncoder)
             except:
                 print(f"\nfailed to write to {i}.json")
+                ignored.append(i)
+print("\nfailed words:")
+print("\n".join(ignored))
 
 
 

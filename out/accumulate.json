@@ -1,0 +1,55 @@
+{
+	"text": "accumulate",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>From Middle English <i class=\"Latn mention\" lang=\"enm\">accumylaten</i>, from Latin <i class=\"Latn mention\" lang=\"la\">accumul\u0101tus</i>, perfect passive participle of <i class=\"Latn mention\" lang=\"la\">accumul\u014d</i> (\u201camass, pile up\u201d), formed from <i class=\"Latn mention\" lang=\"la\">ad</i> (\u201cto, towards, at\u201d) + <i class=\"Latn mention\" lang=\"la\">cumul\u014d</i> (\u201cheap\u201d), from <i class=\"Latn mention\" lang=\"la\">cumulus</i> (\u201ca heap\u201d). First attested in the 1520's.\n</p>",
+			"pos": [
+				{
+					"pos": "Verb",
+					"definitions": [
+						{
+							"definition": "(transitive) To heap up in a mass; to pile up; to collect or bring together (either literally or figuratively)\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(intransitive) To gradually grow or increase in quantity or number.\n\n",
+							"quote": [
+								{
+									"citation": "1770, Oliver Goldsmith, The Deserted Village, lines 17\u201318:",
+									"text": "Ill fares the land, to hastening ills a prey, / Where wealth accumulates, and men decay."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(education, dated) To take a higher degree at the same time with a lower degree, or at a shorter interval than usual.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(poetic, rare) Collected; accumulated.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"General American, Canada",
+			"/\u0259\u02c8kju.mj\u0259\u02ccle\u026at/"
+		],
+		[
+			"Received Pronunciation",
+			"/\u0259\u02c8kju\u02d0mj\u028a\u02ccle\u026at/"
+		]
+	]
+}

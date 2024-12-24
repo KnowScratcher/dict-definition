@@ -1,0 +1,180 @@
+{
+	"text": "accident",
+	"etymologies": [
+		{
+			"etymologyHTML": "<p>First attested in the late 14th century. From Middle English <i class=\"Latn mention\" lang=\"enm\">accident</i>, from Old French <i class=\"Latn mention\" lang=\"fro\">accident</i>, from Latin <i class=\"Latn mention\" lang=\"la\">accid\u0113ns</i>, present active participle of <i class=\"Latn mention\" lang=\"la\">accid\u014d</i> (\u201chappen\u201d); from <i class=\"Latn mention\" lang=\"la\">ad</i> (\u201cto\u201d) + <i class=\"Latn mention\" lang=\"la\">cad\u014d</i> (\u201cfall\u201d). See <i class=\"Latn mention\" lang=\"en\">cadence</i>, <i class=\"Latn mention\" lang=\"en\">case</i>. In the sense \u201cunintended pregnancy\u201d, first attested in 1932.\n</p>",
+			"pos": [
+				{
+					"pos": "Noun",
+					"definitions": [
+						{
+							"definition": "(law) casus; such unforeseen, extraordinary, extraneous interference as is out of the range of ordinary calculation.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": " An unexpected event with negative consequences occurring without the intention of the one suffering the consequences, and (in the strict sense) not directly caused by humans.\n\n\n",
+							"quote": [
+								{
+									"citation": "c. 1603\u20131604 (date written), William Shakespeare, \u201cThe Tragedie of Othello, the Moore of Venice\u201d, in Mr. William Shakespeares Comedies, Histories, & Tragedies\u00a0[\u2026] (First Folio), London:  [\u2026]  Isaac Iaggard, and Ed[ward] Blount, published 1623, \u2192OCLC, [Act I, scene iii]:",
+									"text": "Wherein I spake of most disastrous chances, / Of moving accidents by flood and field [\u2026]"
+								}
+							],
+							"relative": {
+								"Coordinate term": [
+									"act of God"
+								]
+							}
+						},
+						{
+							"definition": "(transport) A collision or crash of a vehicle, aircraft, or other form of transportation that causes damage to the transportation involved; and sometimes injury or death to the transportation's occupants or bystanders in close proximity. (but see Usage notes)\n\n",
+							"quote": [
+								{
+									"citation": "2013 July-August, Philip J. Bushnell, \u201cSolvents, Ethanol, Car Crashes & Tolerance\u201d, in American Scientist:",
+									"text": "Surprisingly, this analysis revealed that acute exposure to solvent vapors at concentrations below those associated with long-term effects appears to increase the risk of a fatal automobile accident. Furthermore, this increase in risk is comparable to the risk of death from leukemia after long-term exposure to benzene, another solvent, which has the well-known property of causing this type of cancer."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "Any chance event.\n",
+							"quote": [
+								{
+									"citation": "2008, Celia Deane-Drummond, The Ethics of Nature, page 206:",
+									"text": "He also objects to the idea of women arising by an accident of nature, preferring the notion that they came about as a 'result of some strong mental impression', and so 'the sex of the progeny would have been settled by the decision of the progenitor'."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": " (uncountable) Chance; random chance.\n",
+							"quote": [
+								{
+									"citation": "c.1861-1863, Richard Chevenix Trench, in 1888, Letters and memorials, Volume 1,\n",
+									"text": "Thou cam'st not to thy place by accident, / It is the very place God meant for thee; [\u2026] "
+								},
+								{
+									"citation": "1991 Autumn, Robert M. Adams, \u201cMontaigne\u201d, in American Scholar, volume 60, number 4, page 589:",
+									"text": "And so with his writing, which he proudly said was a perfect counterpart of his life. Accident played a major part in both."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": "(grammar) A property attached to a word, but not essential to it, such as gender, number, or case.\n",
+							"quote": [
+								{
+									"citation": "a 1799, John Parkhurst, A Hebrew and English lexicon without points, page 25\n",
+									"text": "An adjective, so called because adjectitious, or added to a substantive, denotes some quality or accident of the substantive to which it is joined  [\u2026] "
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": " Any property, fact, or relation that is the result of chance or is nonessential or nonsubstantive.\n\n\n",
+							"quote": [
+								{
+									"citation": "1883, J. P. Mahaffy, Social life in Greece from Homer to Menander:",
+									"text": "This accident, as I call it, of Athens being situated some miles from the sea, which is rather the consequence of its being a very ancient site, [\u2026]"
+								},
+								{
+									"citation": "1902, William James, \u201cLecture IX: Conversion\u201d, in The Varieties of Religious Experience: A Study in Human Nature [\u2026] , New York, N.Y.; London: Longmans, Green, and Co.\u00a0[\u2026], \u2192OCLC, page 200:",
+									"text": "If they went through their growth-crisis in other faiths and other countries, although the essence of the change would be the same\u00a0[\u2026], its accidents would be different."
+								},
+								{
+									"citation": "14thC, Geoffrey Chaucer, The Pardoner's Prologue and Tale in The Canterbury Tales,\n",
+									"text": "These cookes how they stamp, and strain, and grind, / And turne substance into accident, / To fulfill all thy likerous talent!"
+								},
+								{
+									"citation": "1677, chapter 3, in Heraclitus Christianus: or, the Man of Sorrow, page 14:",
+									"text": "But as to Man, all the Fruits of the Earth, all sorts of Herbs, Plants and Roots, the Fishes of the Sea, and the Birds of the Air do not suffice him, but he must disguise, vary, and sophisticate, change the substance into accident, that by such irritations as these, Nature might be provoked, and as it were necessitated."
+								},
+								{
+									"citation": "1989, Iysa A. Bello, The medieval Islamic controversy between philosophy and orthodoxy, page 55:",
+									"text": "Nonetheless, those who have no evidence of the impossibility of the transformation of accident into substance believe that it is death itself which will be actually transformed into a ram on the Day of Resurrection and then be slaughtered."
+								},
+								{
+									"citation": "2005, Muhammad Ali Khalidi, Medieval Islamic philosophical writings, page 175:",
+									"text": "It would also follow that God ought to be able to transmute genera, converting substance into accident, knowledge into ability, black into white, and sound into smell, just as he can turn the inanimate into animate [\u2026]"
+								},
+								{
+									"citation": "2010, T. M. Rudavsky, Maimonides, page 142:",
+									"text": "nor can God effect the transmutation of substances (from accident into substance, or substance into accident, or substance without accident)."
+								}
+							],
+							"relative": {
+								"Synonym": [
+									"accidens"
+								]
+							}
+						},
+						{
+							"definition": "Urine or feces excreted due to incontinence.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(euphemistic) An instance of incontinence.\n\n",
+							"quote": [
+								{
+									"citation": "2009, Marcia Stedron, My Roller Coaster Life as an Army Wife, Xlibris Corporation, \u2192ISBN, page 56:",
+									"text": "We weren\u2019t there long when Karin asked about our dog. When we told her Chris was in the car, she insisted we bring him up to the apartment. I rejected her offer and said he might have an accident on the carpet and I didn\u2019t want to worry about it."
+								}
+							],
+							"relative": {}
+						},
+						{
+							"definition": " (derogatory or humorous) A person born from an unintended pregnancy.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": " (euphemistic) An unintended pregnancy.\n",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(geology) An irregular surface feature with no apparent cause.",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(geology) A sudden discontinuity of ground such as fault of great thickness, bed or lentil of unstable ground.[1]",
+							"quote": [],
+							"relative": {}
+						},
+						{
+							"definition": "(heraldry) A point or mark which may be retained or omitted in a coat of arms.",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				},
+				{
+					"pos": "Adjective",
+					"definitions": [
+						{
+							"definition": "(transport) Designating any form of transportation involved in an accident.\n",
+							"quote": [],
+							"relative": {}
+						}
+					]
+				}
+			]
+		}
+	],
+	"pronunciation": [
+		[
+			"Received Pronunciation",
+			"/\u02c8\u00e6ks\u026ad\u0259nt/"
+		],
+		[
+			"General American",
+			"/\u02c8\u00e6ks\u0259d\u0259nt/"
+		],
+		[
+			"pin\u2013pen merger",
+			"/\u02c8\u00e6ks\u0259d\u026ant/"
+		]
+	]
+}
